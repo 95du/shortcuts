@@ -1,0 +1,3 @@
+# Shortcuts
+
+shortcus json
