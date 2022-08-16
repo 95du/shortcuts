@@ -1,0 +1,18 @@
+{
+    "Update": "Null",
+    "Version": "3.0",
+    "install": "workflow://shortcuts/11abb4dfe39741aeb63231ed2781cc36",
+    "api": "aHR0cDovL3RzLmFtYXAuY29tL3dzL3RzZXJ2aWNlL2xvY2F0aW9uL2dldExhc3Q/aW49S1FnOHNV bXZIckd3dTBwS0JOVHBtNzcxUjJIMEpRJTJGT0dYS0Jsa1pVMkJHaHVBMXB6SEhGck9hTnVoRHpD clFnemNZNTU4dEh2Y0R4JTJCSlRKTDFZR1VnRTA0STFSNG1ydjZoNzdOeHlqaEE0MzNoRk01T3Zr UyUyRlVRU2xybndONXBmZ0tuRkYlMkZMS04xbFp3T1hJSU43Q2tDbWRWRDI2ZmglMkZzMWNySXgl MkJKWlV1STZkUFlma3V0bDFaNXpxU3pYUXF3akZ3MDNqM2FSdW1oN1phcURZZDlmWGNUOThnaTAz NFhDWFFKeXhySHBFJTJCUFBsRXJuZmlLeGQzNmxMSEtNSjdGdFA3V0wlMkZPSE9LRSUyRjNZTk4w VjlFRWQlMkZqM0JTWWFjQlRkU2hKNFkwcEV0VWYycVRwZHNJV24lMkY3THMxbGxIQ3NvQkIyNFBR JTNEJTNEJmVudD0yJmtleXQ9NA==",
+    "Title": "检测到新的版本",
+    "User": {
+        "ViolationQuery": "https://www.icloud.com/shortcuts/fcd07b1fd7d94092ab353d1672cbf984",
+        "Subscribe": "https://shimo.im/api/newforms/forms/QjgrXWXJPcpPcrxC/submit",
+        "OilDroplet": "alipays://platformapi/startapp?appId=2021001187672196",
+        "Tutorial": "http://4qiao.soao.top/use/honda.html",
+        "Speed": "车辆静止中",
+        "Chanify": "https://api.chanify.net/v1/sender/COzexawGEiJBQUpENkNHSVIzSE00RzM1Q0RQSkRMS0ZFWkozU0pKQU40IgkIAhoFSG9uZGE.FB9j3GZ5W8DJW5BFPDYcaCfgbb6E87l9A-pNPcw_0Wo?sound=1&priority=10",
+        "Tip": "偏好设置功能 : \n点击后变绿色图标，下一次运行时变为一键实时查看，白色图标则为有菜单选项，可任意切换。\n控自动化功能 : \n设置自动化后，在指令中控制自动化打开或关闭。",
+        "Map": "https://maps.apple.com/?q=HONDA",
+        "Feedback": "https://support.qq.com/embed/phone/313813/"
+    }
+}
