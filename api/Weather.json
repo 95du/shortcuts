@@ -1,0 +1,43 @@
+{
+    "index": "https://h5ctywhr.api.moji.com/indexDetail",
+    "Alert": "https://html5.moji.com/tpd/mojiweather_h5/index.html#/alert?cityid=",
+    "User": {
+        "Chanify": "https://api.chanify.net/v1/sender/CKjuxawGEiJBQUpENkNHSVIzSE00RzM1Q0RQSkRMS0ZFWkozU0pKQU40IgsIAhoHV2VhdGhlcg.LPdwvAR2B6Gbc6tlTRvwJ8KHIyfK6jyNklB8ArOWrL0?sound=1&priority=10",
+        "IMG": "https://html5.moji.com/tpd/mojiweather_h5/img/w1.3708ab60.png",
+        "Current": {
+            "阴": "https://html5.moji.com/tpd/mojiweather_h5/img/w2.29d202df.png",
+            "阵雪": "https://html5.moji.com/tpd/mojiweather_h5/img/w13.86ca2c8e.png",
+            "多云": "https://html5.moji.com/tpd/mojiweather_h5/img/w1.3708ab60.png",
+            "雷阵雨": "https://html5.moji.com/tpd/mojiweather_h5/img/w4.8496f44a.png",
+            "特大暴雨": "https://html5.moji.com/tpd/mojiweather_h5/img/w10.96a24926.png",
+            "小雨": "https://html5.moji.com/tpd/mojiweather_h5/img/w7.8b6a7d80.png",
+            "大雨": "https://html5.moji.com/tpd/mojiweather_h5/img/w9.ff3d2373.png",
+            "中雪": "https://html5.moji.com/tpd/mojiweather_h5/img/w15.442abc7d.png",
+            "阵雨转阴": "https://html5.moji.com/tpd/mojiweatheraggr/img/w3.206c274e.png",
+            "IMG": "https://html5.moji.com/tpd/mojiweather_h5/img/w1.3708ab60.png",
+            "大暴雨": "https://html5.moji.com/tpd/mojiweather_h5/img/w10.96a24926.png",
+            "晴": "https://html5.moji.com/tpd/mojiweather_h5/img/w0.e431739b.png",
+            "阵雨": "https://html5.moji.com/tpd/mojiweather_h5/img/w7.8b6a7d80.png",
+            "小雪": "https://html5.moji.com/tpd/mojiweather_h5/img/w14.b13afe70.png",
+            "大雪": "https://html5.moji.com/tpd/mojiweather_h5/img/w16.04f22964.png",
+            "中雨": "https://html5.moji.com/tpd/mojiweather_h5/img/w8.256f0827.png",
+            "暴雨": "https://html5.moji.com/tpd/mojiweather_h5/img/w10.96a24926.png",
+            "雨夹雪": "https://html5.moji.com/tpd/mojiweather_h5/img/w6.458bec3a.png"
+        },
+        "Subscribe": "https://shimo.im/api/newforms/forms/Jp8yyJvyxJWtxdYv/submit"
+    },
+    "Version": "2.2",
+    "Update": "检测到新的版本‼️\n\n* 更精准的位置显示\n* 修复一些已知问题\n\n2022年8月2日 17:59 版本v2.1",
+    "State": "https://html5.moji.com/tpd/mojiweatheraggr/index.html#/home?cityid=",
+    "install": "workflow://shortcuts/75b637585a2b4b36bd233a914aba3d9a",
+    "Hourly": "https://api.caiyunapp.com/v2/2zHu=DbPVTvusLnq/",
+    "Loc": "https://apis.map.qq.com/ws/geocoder/v1/?coord_type=5&get_poi=0&output=json&key=6GZBZ-OF43F-4DOJQ-JI5C6-UCBYH-VYFDE&location=",
+    "Search": "https://ic.snssdk.com/stream/widget/goapi/open/weather/?source=4qiao_widget&city_name=",
+    "Day15": "https://html5.moji.com/tpd/mojiweather_h5/index.html#/home?author=4qiao&cityid=",
+    "Municipalities": "北京市|上海市|天津市|重庆市",
+    "Weather": "https://co.moji.com/api/weather2/weather?city=",
+    "Cast": "https://ssfc.api.moji.com/sfc/json/nowcast",
+    "AlertIMG": "https://html5.moji.com/tpd/mojiweather_h5/img/alert/",
+    "City": "https://ssch.api.moji.com/citymanage/json/h5/searchCity?keyWord=",
+    "Days": "https://h5ctywhr.api.moji.com/weatherDetail"
+}
