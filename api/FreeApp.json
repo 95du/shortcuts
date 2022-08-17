@@ -1,0 +1,12 @@
+{
+    "Update": "null",
+    "Version": "1.1",
+    "iTunes": "https://itunes.apple.com/cn/lookup?id=",
+    "Projects": "https://mergeek.com/projects/home_v2",
+    "Parameter": "&Parameter=",
+    "Free": "https://mergeek.com/free/apps",
+    "install": "workflow://shortcuts/ecd644bca9014b0ea66ab8c5f349d5ff",
+    "User": {
+        "Subscribe": "https://shimo.im/api/newforms/forms/DgYvvCgy6QwWJYYq/submit"
+    }
+}
