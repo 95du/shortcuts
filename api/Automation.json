@@ -1,0 +1,88 @@
+{
+    "Update": "null",
+    "Version": "1.0",
+    "input": "text",
+    "Author": "OTXluqbojIXlj7A=",
+    "iCloud": "https://www.icloud.com/shortcuts/api/records/",
+    "api": [
+        {
+            "body": {
+                "name": "全国天气预警",
+                "ID": "10349",
+                "settings": {
+                    "input": "text",
+                    "text": "task"
+                }
+            }
+        },
+        {
+            "body": {
+                "name": "商店每日限免",
+                "ID": "10833",
+                "settings": {
+                    "input": "text",
+                    "text": "task"
+                }
+            }
+        },
+        {
+            "body": {
+                "name": "全国健康码URL",
+                "ID": "10724",
+                "settings": {
+                    "input": "text",
+                    "text": "task"
+                }
+            }
+        },
+        {
+            "body": {
+                "name": "情景模式",
+                "ID": "9497",
+                "settings": {
+                    "input": "text",
+                    "text": "task"
+                }
+            }
+        },
+        {
+            "body": {
+                "name": "Honda Civic",
+                "ID": "9764",
+                "settings": {
+                    "input": "text",
+                    "text": "task"
+                }
+            }
+        },
+        {
+            "body": {
+                "name": "疫情风险",
+                "ID": "10713",
+                "settings": {
+                    "input": "text",
+                    "text": "task"
+                }
+            }
+        },
+        {
+            "body": {
+                "name": "开奖结果",
+                "ID": "10223",
+                "settings": {
+                    "input": "text",
+                    "text": "task"
+                }
+            }
+        }
+    ],
+    "Link": "https://www.icloud.com/shortcuts/",
+    "install": "null",
+    "User": {
+        "Feedback": "https://support.qq.com/embed/phone/313813",
+        "One": "http://open.iciba.com/dsapi",
+        "Sharecuts": "https://sharecuts.cn/user/KVlQooAqzA",
+        "Title": "1，创建一个任务组\n2，拷贝iCloud链接\n3，填入链接完成备份\n4，已有任务组可直接添加或删减",
+        "Subscribe": "https://shimo.im/api/newforms/forms/vVqRVlxoY0tOvBqy/submit"
+    }
+}
