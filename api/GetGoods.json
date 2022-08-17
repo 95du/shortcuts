@@ -22,9 +22,9 @@
     "Notice": false,
     "SignHome": "https://app.dewu.com/hacking-game-center/v1/sign/home?",
     "Referral": [
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_1.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_2.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_3.jpeg"
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_1.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_2.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_3.jpeg"
     ],
     "bubbleList": "https://app.dewu.com/hacking-game-center/v1/sign/bubble/list",
     "luckDrawURL": "dewuapp://m.poizon.com/router/web/BrowserPage?loadUrl=https%3A%2F%2Fm.dewu.com%2Fh5-growth%2FzeroLottery%3FnavControl%3D1%26toolbarControl%3D1%26source%3Dzhzj01",
