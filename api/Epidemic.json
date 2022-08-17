@@ -17,11 +17,11 @@
     "Activity": "https://i.snssdk.com/ugc/hotboard_fe/hot_list/template/hot_list/forum_tab.html?activeWidget=15",
     "Address": "http://restapi.amap.com/v3/geocode/geo?key=9d6a1f278fdce6dd8873cd6f65cae2e0&s=rsv3&address=",
     "Color": {
-        "Green": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/notification/green.png",
-        "Purple": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/notification/purple.png",
-        "Blue": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/notification/blue.png",
-        "Yellow": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/notification/yellow.png",
-        "Red": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/notification/red.png"
+        "Green": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/notification/green.png",
+        "Purple": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/notification/purple.png",
+        "Blue": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/notification/blue.png",
+        "Yellow": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/notification/yellow.png",
+        "Red": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/notification/red.png"
     },
     "Quantity": {
         "HSizeBigger": "全国高风险等级地区较上次增加",
