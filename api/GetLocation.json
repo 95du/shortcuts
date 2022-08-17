@@ -1,0 +1,11 @@
+{
+    "Minute_60": "60",
+    "M": "50",
+    "StaticMap": "https://restapi.amap.com/v3/staticmap?",
+    "traffic": "&traffic=1",
+    "Marking_2": "&zoom=15&size=450*300&markers=-1,https://image.fosunholiday.com/cl/image/comment/618e683124e0bc2b8c5a89b7_Locating_2.png,0:",
+    "StaticMaps": "https://restapi.amap.com/v3/staticmap?location=",
+    "Marking": "&zoom=15&size=450*300&markers=-1,https://image.fosunholiday.com/cl/image/comment/619016bf24e0bc56ff2a968a_Locating_9.png,0:",
+    "Marking_1": "&zoom=15&size=450*300&markers=-1,https://image.fosunholiday.com/cl/image/comment/618f20f5f08eac6f36f5d3c0_Locating_5.png,0:",
+    "Minute_10": "10"
+}
