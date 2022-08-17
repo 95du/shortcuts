@@ -1,0 +1,28 @@
+{
+    "User": {
+        "Stream": "http://mtw.so/5PnwJr",
+        "Subscribe": "https://shimo.im/api/newforms/forms/N2A1M2ExZafp0WAD/submit",
+        "StartPicture": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/80/a8/27/80a82789-854c-01e6-14ed-54e455fb1cb3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+        "StartTask": "设置自动化或添加到主屏幕运行，前者实现锁屏模式，后者实现后台模式。",
+        "CheckTask": "任务完成图标变灰色，未开始任务图标为黄色",
+        "Tutorial": "使用此捷径需要用户自行在屈臣氏微信小程序抓包获取用户信息，登录成功将保存UserID等信息到iCloud。",
+        "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ",
+        "taskEnd": "http://ihdcdn.nascent.cn/ihd/image/revision/revision-earn.png",
+        "Sharecuts": "https://sharecuts.cn/user/KVlQooAqzA",
+        "Title": "每日签到，每日任务赚回馈金，在屈臣氏微信小程序可兑换好物，详情请自行查看。",
+        "blackFace": "https://mystore-h5.watsonsvip.com.cn/01hdzx/1020/item-tip-icon.png"
+    },
+    "Version": "1.0",
+    "Update": "null",
+    "author": "OTXluqbojIXlj7A=",
+    "Stream": "https://apps.apple.com/cn/app/stream/id1312141691",
+    "Sign": "https://mystore-fb.watsonsvip.com.cn:10500/wx/signIn/iter/sign",
+    "install": "null",
+    "SignDays": "https://mystore-fb.watsonsvip.com.cn:10500/wx/signIn/index?unionId=",
+    "doTask": "https://mystore-fb.watsonsvip.com.cn:10500/thirdparty/api/missions",
+    "HTML": "data:text/html;charset=utf-8,<script>",
+    "taskList": "https://mystore-fb.watsonsvip.com.cn:10500/thirdparty/api/index",
+    "taskToken": "https://mystore-fb.watsonsvip.com.cn:10500/thirdparty/api/missions/@/start",
+    "Referer": "https://servicewechat.com/wx1ffbd6927043dff7/429/page-frame.html",
+    "Notice": false
+}
