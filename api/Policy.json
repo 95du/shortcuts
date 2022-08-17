@@ -1,0 +1,14 @@
+{
+    "Update": "null",
+    "Version": "1.1",
+    "Policy": "http://www.gov.cn/zhengce/",
+    "Web": "http://www.gov.cn",
+    "ShortLink": "http://api.suowo.cn/api.htm?key=612e59e4dac44333842d8bcd@501d94dfdca7546e73ed32a68d6500a8&expireDate=2030-03-31&url=",
+    "Communique": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/policy/Communique.jpeg",
+    "image": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/policy/NationalEmblem.png",
+    "NationalEmblem": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/policy/NationalEmblem.jpeg",
+    "install": "workflow://shortcuts/17625d991eef409fa66dfa7b317fd9c1",
+    "User": {
+        "Subscribe": "https://shimo.im/api/newforms/forms/pDytppkvwXKtHDkq/submit"
+    }
+}
