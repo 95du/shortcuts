@@ -1,0 +1,20 @@
+{
+    "User": {
+        "Subscribe": "https://shimo.im/api/newforms/forms/L9kBMXgj2wF8XyqK/submit"
+    },
+    "Version": "1.2",
+    "App": "核酸检测机构查询",
+    "Update": "检测到新的版本‼️",
+    "regionCode": "https://zfbxcx.gjzwfw.gov.cn/fwmh/healthCode/getNucleic.do?keyword=&pagenum=1&pagesize=100&regionCode=",
+    "Name": "全国核酸检测机构查询",
+    "install": "Shortcuts://shortcuts/acc02655ba4b407fb051b1775b38f5e3",
+    "Number": "1",
+    "getNucleic": "https://gjzwfw.www.gov.cn/fwmh/healthCode/getNucleic.do",
+    "Origin": "https://gjzwfw.www.gov.cn",
+    "Province": "https://gjzwfw.www.gov.cn/fwmh/healthCode/HealthCodeAreaBypParentCode.do",
+    "input": "输入机构名称/市/县/区",
+    "AllCity": "https://zfbxcx.gjzwfw.gov.cn/jmportal_xcx/interfaces/getAllFxdjCity.do",
+    "Code": "&pagenum=1&pagesize=100&regionCode=",
+    "Map": "http://restapi.amap.com/v3/geocode/regeo?key=9d6a1f278fdce6dd8873cd6f65cae2e0&s=rsv3&location=",
+    "regionName": "https://zfbxcx.gjzwfw.gov.cn/fwmh/healthCode/getNucleic.do?keyword="
+}
