@@ -1,0 +1,13 @@
+{
+    "Update": "增加 : 可在捷径社区的作品右上角的分享-更多中直接运行，如果创建iCloud链接失败，拷贝社区分享的链接在捷径中运行。",
+    "Version": "1.2",
+    "Notice": "此捷径链接不是在iOS 15设备上创建的",
+    "iCloud": "https://www.icloud.com/shortcuts/",
+    "Records": "https://www.icloud.com/shortcuts/api/records/",
+    "Tips": "iOS15上创建的链接或捷径社区作品的链接",
+    "install": "Shortcuts://shortcuts/8bc15f756f4a46498f502fb53d774d2e",
+    "Sharecuts": "https://sharecuts.cn/api/shortcuts/",
+    "User": {
+        "Subscribe": "https://shimo.im/api/newforms/forms/TVT8KRHvhX9XRj3q/submit"
+    }
+}
