@@ -1,0 +1,49 @@
+{
+    "Leaders": "https://stock.snssdk.com/v2/stocks/detail/profile/leaders?code=",
+    "FinanceHK": "https://stock.snssdk.com/v1/hk/finance/index?code=",
+    "User": {
+        "Chanify": "https://api.chanify.net/v1/sender/CPzrxawGEiJBQUpENkNHSVIzSE00RzM1Q0RQSkRMS0ZFWkozU0pKQU40Ig8IAhoLU3RvY2tNYXJrZXQ.FoFjWdXOZWWWE7UcErH1Lqyrn2IU-CODCH912dEvuUo?sound=1&priority=10",
+        "Subscribe": "https://shimo.im/api/newforms/forms/6vdc3KWdRHW99hRY/submit"
+    },
+    "Version": "2.0",
+    "Update": "检测到新的版本‼️\n\n  Version1.2\n* 增加与之相关的新闻 \n* 增加公司简况\n* 增加公司高管信息\n* 增加十大流通股东信息（除美股、港股外可见）\n* 增加公司财务信息\n* 修复已知问题\n",
+    "ProfileUS": "https://stock.snssdk.com/v2/us/stock_profile/index?code=",
+    "Holders": "https://stock.snssdk.com/v2/stocks/detail/profile/shareholders?code=",
+    "Label": "美股|港股|A股|概念|基金|科创",
+    "D": "&deal=1",
+    "install": "Shortcuts://shortcuts/d1a51e0876674f449cfd0d11e4c78a4d",
+    "Brief": "https://stock.snssdk.com/v2/stock/brief_info?code=",
+    "Search": "https://stock.snssdk.com/v7/stocks/search?version_name=4.0.0&query=",
+    "FinanceBrief": "https://stock.snssdk.com/v1/us/finance/brief?code=",
+    "News": "https://stock.snssdk.com/v7/article/list?code=",
+    "FinanceBriefV1": "https://stock.snssdk.com/v1/stocks/financial/brief?code=",
+    "Stock": [
+        {
+            "code": "oqAAPL",
+            "author": "@4qiao",
+            "input": "task",
+            "name": "苹果"
+        },
+        {
+            "code": "oqMSFT",
+            "author": "@4qiao",
+            "input": "task",
+            "name": "微软"
+        },
+        {
+            "code": "oqTSLA",
+            "author": "@4qiao",
+            "input": "task",
+            "name": "特斯拉"
+        },
+        {
+            "code": "nyBABA",
+            "author": "@4qiao",
+            "input": "task",
+            "name": "阿里巴巴"
+        }
+    ],
+    "Detail": "https://stock.snssdk.com/v1/quotes/stockdetail?code=",
+    "ProfileHK": "https://stock.snssdk.com/v1/hk/profile/index?code=",
+    "Limit": "&end=0&limit=20"
+}
