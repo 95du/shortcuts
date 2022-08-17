@@ -26,9 +26,9 @@
     "HTML": "data:text/html;charset=utf-8,<script>",
     "startGame": "https://zj.haier.net/zjapi/eliminationActivity/game/startGame",
     "Referral": [
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_1.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_2.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_3.jpeg"
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_1.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_2.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_3.jpeg"
     ],
     "eliminationTask": "https://zj.haier.net/zjapi/eliminationActivity/task/taskList",
     "prizeList": "https://mps.haiersmarthomes.com/api-gw/wisdomHouseActivity/prize/list",
