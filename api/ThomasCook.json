@@ -1,7 +1,7 @@
 {
     "User": {
         "finish": "当前任务已全部完成‼️",
-        "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06AQIM",
+        "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06BCL5",
         "Message": "输入短信验证码",
         "LoginTips": "登录获取托迈酷客用户授权码，token只储存在iCloud中（ 支持多个账号同时进行任务 ）",
         "Version": "关于浏览任务问题‼️",
@@ -21,9 +21,9 @@
     "Notice": true,
     "getEquityDetails": "https://hotels.folidaymall.com/equity/front/getEquityPackageDetailById?id=",
     "Referral": [
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_1.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_2.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_3.jpeg"
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_1.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_2.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_3.jpeg"
     ],
     "Link": "https://ur.alipay.com/",
     "submitTask": "https://apis.folidaymall.com/online/cms-api/activity/submitCompleteActivityTask",
@@ -96,7 +96,7 @@
     "InfoSend": "https://apis.folidaymall.com/sys/equity-web/equityCard/equityCardInfoSend",
     "Login": "https://zeus.thomascook.com.cn/user/login/sms",
     "Recom": {
-        "trackCode": "?isSharefrom=tc_app&trackCode=43NVWO06AQIM",
+        "trackCode": "?isSharefrom=tc_app&trackCode=43NVWO06BCL5",
         "WeChat": "weixin://scanqrcode",
         "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ",
         "agentInfo": "https://apis.folidaymall.com/spark/api/agent/info",
@@ -109,7 +109,7 @@
         "Picture_5": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/99/c2/b1/99c2b1c5-a3a6-4e8e-5a2f-67addabd79c2/source/512x512bb.png",
         "Picture_2": "https://image.fosunholiday.com/cl/image/20210622/60d1a206f08eac2903b29dad.gif",
         "Picture_3": "https://image.fosunholiday.com/cl/image/20200612/5ee339c45c4d540fe254483f.png",
-        "Picture_4": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_6.png"
+        "Picture_4": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_6.png"
     },
     "recordList": "https://hotels.folidaymall.com/equity/front/receive/record/list",
     "CustomerService": "https://hotels.folidaymall.com/chatlink/tc.html?groupid=325321b2018087cfc9cfbc6def7658ee&metadata%5B1%5D=%22%7D&login_path=/pages/login/index&pay_path=/pages/pay/pay&token=@&timestamp=",
@@ -210,7 +210,7 @@
     "queryDetail": "https://apis.folidaymall.com/sys/equity-web/equityCard/queryDetail",
     "SendList": "https://apis.folidaymall.com/sys/equity-web/equityCard/equityCardInfoSendList",
     "ProductDetail": "https://apis.folidaymall.com/spark/api/product/share/queryProductDetail",
-    "GetSMS": "https://zeus.thomascook.com.cn/service/sms?isSharefrom=tc_web&trackCode=43NVWO06AQIM",
+    "GetSMS": "https://zeus.thomascook.com.cn/service/sms?isSharefrom=tc_web&trackCode=43NVWO06BCL5",
     "UrlManage": "https://home.suowo.cn/ucenter/tinyurlManage/restore/createforUnlogin.htm",
     "equityList": "https://hotels.folidaymall.com/equity/front/equityPackageList?flag=",
     "getEquity": "https://hotels.folidaymall.com/equity/front/receivedEquityPackageById"
