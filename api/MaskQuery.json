@@ -1,0 +1,11 @@
+{
+    "Update": "Null",
+    "Version": "1.0",
+    "install": "Null",
+    "Gateway": "https://zfbxcx.gjzwfw.gov.cn/gateway.do",
+    "User": {
+        "Open": "alipays://platformapi/startapp?appId=2019011763060066&page=pages%2Farea-fxdj%2Farea-fxdj",
+        "Subscribe": "https://shimo.im/api/newforms/forms/vd3pDX8HcpckDyx3/submit"
+    },
+    "Sign": "https://zfbxcx.gjzwfw.gov.cn/jimp3.0.0/sign/createsign.do"
+}
