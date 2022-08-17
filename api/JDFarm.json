@@ -29,13 +29,13 @@
     "Notice": false,
     "HTML": "data:text/html;charset=utf-8,<script>",
     "Referral": [
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_1.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_2.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_3.jpeg"
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_1.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_2.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_3.jpeg"
     ],
     "Scriptable": "https://apps.apple.com/cn/app/scriptable/id1405459188",
     "gotThreeMeal": "https://api.m.jd.com/client.action?functionId=gotThreeMealForFarm&body=%7B%22type%22%3A0%2C%22version%22%3A16%2C%22channel%22%3A1%2C%22babelChannel%22%3A%22121%22%7D&appid=signed_wh5",
-    "Authorization": "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/data/GetJDcookie.js",
+    "Authorization": "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/GetJDcookie.js",
     "firstWaterTask": "https://api.m.jd.com/client.action?functionId=firstWaterTaskForFarm&body=%7B%22version%22%3A16%2C%22channel%22%3A1%2C%22babelChannel%22%3A%22121%22%7D&appid=signed_wh5",
     "gotWater": "https://api.m.jd.com/client.action?functionId=gotWaterGoalTaskForFarm&body=%7B%22type%22%3A3%2C%22version%22%3A16%2C%22channel%22%3A1%2C%22babelChannel%22%3A%22121%22%7D&appid=signed_wh5",
     "Version": "1.0",
