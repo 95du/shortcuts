@@ -31,9 +31,9 @@
     "Scriptable": "https://apps.apple.com/cn/app/scriptable/id1405459188",
     "loginSms": "https://jf.hisense.com/api/user-manage/front/user/loginBySmsCode",
     "Referral": [
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_1.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_2.jpeg",
-        "https://diqiao.coding.net/p/shortcuts/d/4qiao/git/raw/master/img/thomasCook/recommender_3.jpeg"
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_1.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_2.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_3.jpeg"
     ],
     "getActivityList": "https://cps.hisense.com/customerAth/activity-manage/activityUser/getActivityList",
     "BaiduTK": "https://aip.baidubce.com/oauth/2.0/token",
