@@ -1,0 +1,161 @@
+{
+    "Update": "null",
+    "Version": "1.1",
+    "Crypto30": [
+        {
+            "name": "LINK",
+            "code": "chainlink"
+        },
+        {
+            "name": "阿童木",
+            "code": "cosmos"
+        },
+        {
+            "name": "Filecoin",
+            "code": "filecoin"
+        },
+        {
+            "name": "Avalanche",
+            "code": "avalanche"
+        },
+        {
+            "name": "Algorand",
+            "code": "algorand"
+        },
+        {
+            "name": "马蹄",
+            "code": "matictoken"
+        },
+        {
+            "name": "OK币",
+            "code": "okb"
+        },
+        {
+            "name": "Wrapped Bitcoin",
+            "code": "wrapped-bitcoin"
+        },
+        {
+            "name": "比特现金",
+            "code": "bitcoin-cash"
+        },
+        {
+            "name": "波场币",
+            "code": "tron"
+        },
+        {
+            "name": "恒星币",
+            "code": "stellar"
+        }
+    ],
+    "Ranking": [
+        "bitcoin",
+        "ethereum",
+        "cardano",
+        "tether",
+        "binance-coin",
+        "ripple",
+        "sola-token",
+        "dogecoin",
+        "polkadot",
+        "litecoin",
+        "uniswap",
+        "bitcoin-cash"
+    ],
+    "Currency": "https://api.jinse.com/new-market/v1/info/currencies/by_slug/",
+    "install": "workflow://shortcuts/82f82b65a48e4be5a8d40f09397eb319",
+    "Crypto10": [
+        {
+            "name": "比特币",
+            "code": "bitcoin"
+        },
+        {
+            "name": "以太访",
+            "code": "ethereum"
+        },
+        {
+            "name": "币安币",
+            "code": "binance-coin"
+        },
+        {
+            "name": "艾达币",
+            "code": "cardano"
+        },
+        {
+            "name": "泰达币",
+            "code": "tether"
+        },
+        {
+            "name": "瑞波币",
+            "code": "ripple"
+        },
+        {
+            "name": "索尔币",
+            "code": "sola-token"
+        },
+        {
+            "name": "波卡币",
+            "code": "polkadot"
+        },
+        {
+            "name": "狗狗币",
+            "code": "dogecoin"
+        },
+        {
+            "name": "莱特币",
+            "code": "litecoin"
+        },
+        {
+            "name": "独角兽",
+            "code": "uniswap"
+        }
+    ],
+    "Crypto40": [
+        {
+            "name": "Tezos",
+            "code": "tezos"
+        },
+        {
+            "name": "以太经典",
+            "code": "ethereum-classic"
+        },
+        {
+            "name": "门罗币",
+            "code": "monero"
+        },
+        {
+            "name": "柚子币",
+            "code": "eos"
+        },
+        {
+            "name": "Axie Infinity",
+            "code": "axie-infinity"
+        },
+        {
+            "name": "Aave",
+            "code": "aave"
+        },
+        {
+            "name": "达世币",
+            "code": "dash"
+        },
+        {
+            "name": "波币",
+            "code": "waves"
+        },
+        {
+            "name": "小蚊币",
+            "code": "neo"
+        },
+        {
+            "name": "比特币SV",
+            "code": "bitcoinsv"
+        },
+        {
+            "name": "火币积分",
+            "code": "ht"
+        }
+    ],
+    "User": {
+        "Subscribe": "https://shimo.im/api/newforms/forms/8YQVWW9KXxtYX9Cx/submit"
+    }
+}
