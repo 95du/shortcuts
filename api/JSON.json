@@ -1,5 +1,5 @@
 {
-    "Json": {
+    "JSON": {
         "Hisense": {
             "author": "OTXluqbojIXlj7A=",
             "User": {
@@ -408,7 +408,7 @@
                 "Subscribe": "https://shimo.im/api/newforms/forms/Jp8yyJvyxJWtxdYv/submit"
             },
             "Version": "2.3",
-            "Update": "检测到新的版本‼️\n\n* 更精准的位置显示\n* 修复一些已知问题\n\n2022年8月18日 14:17 版本v2.1",
+            "Update": "检测到新的版本‼️\n\n* 更精准的位置显示\n* 修复一些已知问题\n\n2022年8月18日 14:27 版本v2.1",
             "State": "https://html5.moji.com/tpd/mojiweatheraggr/index.html#/home?cityid=",
             "install": "Shortcuts://shortcuts/e7b89be2fe014de696a0f34f50f6e270",
             "Hourly": "https://api.caiyunapp.com/v2/2zHu=DbPVTvusLnq/",
@@ -596,7 +596,7 @@
                 "Subscribe": "https://shimo.im/api/newforms/forms/DvkpwQ9y3HkRQg9C/submit"
             },
             "Version": "1.5",
-            "Update": "检测到新的版本‼️\n\n* 修复一些错误\n\n2022年8月18日 14:17 - Version1.3",
+            "Update": "检测到新的版本‼️\n\n* 修复一些错误\n\n2022年8月18日 14:27 - Version1.3",
             "RowNumber": "行",
             "install": "workflow://shortcuts/61ba592c08c6486d87813a78a740a79a",
             "Number": 8,
@@ -1142,7 +1142,7 @@
                 "Picture": "https://image.fosunholiday.com/cl/image/20210622/60d1a206f08eac2903b29dad.gif",
                 "Subscribe": "https://shimo.im/api/newforms/forms/vVAXVyXwLwUb72qm/submit",
                 "Version": "null",
-                "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06BD5N",
+                "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06BD5S",
                 "Sharecuts": "https://sharecuts.cn/shortcut/11628",
                 "Release": "null",
                 "ThomasCook": "Thomas Cook 托迈酷客是复星旅游文化集团（简称“复星旅文”）旗下的生活方式品牌。"
@@ -1151,7 +1151,7 @@
         "ThomasCook": {
             "User": {
                 "finish": "当前任务已全部完成‼️",
-                "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06BD5N",
+                "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06BD5S",
                 "Message": "输入短信验证码",
                 "LoginTips": "登录获取托迈酷客用户授权码，token只储存在iCloud中（ 支持多个账号同时进行任务 ）",
                 "Version": "关于浏览任务问题‼️",
@@ -1246,7 +1246,7 @@
             "InfoSend": "https://apis.folidaymall.com/sys/equity-web/equityCard/equityCardInfoSend",
             "Login": "https://zeus.thomascook.com.cn/user/login/sms",
             "Recom": {
-                "trackCode": "?isSharefrom=tc_app&trackCode=43NVWO06BD5N",
+                "trackCode": "?isSharefrom=tc_app&trackCode=43NVWO06BD5S",
                 "WeChat": "weixin://scanqrcode",
                 "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ",
                 "agentInfo": "https://apis.folidaymall.com/spark/api/agent/info",
@@ -1360,7 +1360,7 @@
             "queryDetail": "https://apis.folidaymall.com/sys/equity-web/equityCard/queryDetail",
             "SendList": "https://apis.folidaymall.com/sys/equity-web/equityCard/equityCardInfoSendList",
             "ProductDetail": "https://apis.folidaymall.com/spark/api/product/share/queryProductDetail",
-            "GetSMS": "https://zeus.thomascook.com.cn/service/sms?isSharefrom=tc_web&trackCode=43NVWO06BD5N",
+            "GetSMS": "https://zeus.thomascook.com.cn/service/sms?isSharefrom=tc_web&trackCode=43NVWO06BD5S",
             "UrlManage": "https://home.suowo.cn/ucenter/tinyurlManage/restore/createforUnlogin.htm",
             "equityList": "https://hotels.folidaymall.com/equity/front/equityPackageList?flag=",
             "getEquity": "https://hotels.folidaymall.com/equity/front/receivedEquityPackageById"
