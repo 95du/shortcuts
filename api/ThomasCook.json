@@ -1,7 +1,7 @@
 {
     "User": {
         "finish": "当前任务已全部完成‼️",
-        "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06BCL5",
+        "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06BD1V",
         "Message": "输入短信验证码",
         "LoginTips": "登录获取托迈酷客用户授权码，token只储存在iCloud中（ 支持多个账号同时进行任务 ）",
         "Version": "关于浏览任务问题‼️",
@@ -96,7 +96,7 @@
     "InfoSend": "https://apis.folidaymall.com/sys/equity-web/equityCard/equityCardInfoSend",
     "Login": "https://zeus.thomascook.com.cn/user/login/sms",
     "Recom": {
-        "trackCode": "?isSharefrom=tc_app&trackCode=43NVWO06BCL5",
+        "trackCode": "?isSharefrom=tc_app&trackCode=43NVWO06BD1V",
         "WeChat": "weixin://scanqrcode",
         "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ",
         "agentInfo": "https://apis.folidaymall.com/spark/api/agent/info",
@@ -210,7 +210,7 @@
     "queryDetail": "https://apis.folidaymall.com/sys/equity-web/equityCard/queryDetail",
     "SendList": "https://apis.folidaymall.com/sys/equity-web/equityCard/equityCardInfoSendList",
     "ProductDetail": "https://apis.folidaymall.com/spark/api/product/share/queryProductDetail",
-    "GetSMS": "https://zeus.thomascook.com.cn/service/sms?isSharefrom=tc_web&trackCode=43NVWO06BCL5",
+    "GetSMS": "https://zeus.thomascook.com.cn/service/sms?isSharefrom=tc_web&trackCode=43NVWO06BD1V",
     "UrlManage": "https://home.suowo.cn/ucenter/tinyurlManage/restore/createforUnlogin.htm",
     "equityList": "https://hotels.folidaymall.com/equity/front/equityPackageList?flag=",
     "getEquity": "https://hotels.folidaymall.com/equity/front/receivedEquityPackageById"
