@@ -1,0 +1,27 @@
+{
+    "Update": "检测到新的版本‼️\n\n* 修复一些已知问题\n\n 版本v2.1",
+    "source": "&source=h5",
+    "Total": "&total_floor=1&floor=1&facing_type=3&decoration_type=4&built_year=2000&building_type=1&source=h5",
+    "Squaremeter": "&squaremeter=",
+    "install": "Shortcuts://shortcuts/fcb31b5198764814ac041c62781869e9",
+    "City": "https://fangchan.toutiao.com/f100/api/city_search?full_text=",
+    "Query": "&house_type=4&query=",
+    "Menu": {
+        "Main": "Main",
+        "Search": "Search"
+    },
+    "PriceTrend": "https://m.xflapp.com/f100/api/neighborhood/info?neighborhood_id=",
+    "Hall": "&floor_plan_hall=",
+    "User": {
+        "Subscribe": "https://shimo.im/api/newforms/forms/9VpX38qtprTcg39G/submit"
+    },
+    "House": "https://m.xflapp.com/f100/api/get_suggestion?city_id=",
+    "CityMarket": "https://fangchan.toutiao.com/f100/api/city_market_info?city_id=",
+    "CityID": "15310",
+    "Room": "&floor_plan_room=",
+    "Neighborhood": "&neighborhood_id=",
+    "Source": "&only_neighborhood=1&source=h5",
+    "Price": "https://m.xflapp.com/f100/api/estimate_house_price?city_id=",
+    "Version": "1.1",
+    "Bath": "&floor_plan_bath="
+}
