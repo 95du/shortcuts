@@ -31,7 +31,7 @@
     "boxList": "https://app.dewu.com/api/v1/h5/mount-buzhou-interfaces/gk/task-list?source=gamecentertask&sign=a7210ea1e4d842f07410fe60a1f88216",
     "Version": "1.4",
     "getMember": "https://app.dewu.com/sns-user-biz/v1/user/profile?",
-    "Update": "更新数据源",
+    "Update": "修复已知问题",
     "receiveBubble": "https://app.dewu.com/hacking-game-center/v1/sign/bubble/receive",
     "Receive": "https://app.dewu.com/hacking-game-center/v1/sign/task_receive?",
     "Stream": "https://apps.apple.com/cn/app/stream/id1312141691",
