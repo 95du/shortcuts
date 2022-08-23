@@ -1,0 +1,15 @@
+[
+  {
+    "status" : false,
+    "adId" : 0,
+    "source" : 1,
+    "id" : "540",
+    "adType" : 1,
+    "con" : "数据错误",
+    "creativeId" : -1,
+    "expiredTime" : 0,
+    "showThirdAd" : true,
+    "type" : 0,
+    "priceCompetitionMode" : null
+  }
+]
