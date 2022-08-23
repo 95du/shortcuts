@@ -1,7 +1,6 @@
 {
     "author": "OTXluqbojIXlj7A=",
     "User": {
-        "WeChat": "weixin://scanqrcode",
         "CheckTask": "有效任务图标为黄色，过期任务图标变灰色",
         "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ",
         "DewuApp": "https://sharecuts.cn/shortcut/11678",
@@ -20,10 +19,10 @@
         "pointsPush": "关注微信公众号【 海信在线 】可接收积分变动通知，点击查看积分明细，在个人中心的会员中心点击右上角设置，完善信息加130积分",
         "pointsDescription": "https://jf.hisense.com/pointdescription/",
         "taskEnd": "http://ihdcdn.nascent.cn/ihd/image/revision/revision-earn.png",
-        "tokenPic": "https://open.weibo.cn/oauth2/images/qrcode/mac-succeed.png",
         "CookTitle": "识别二维码申请推荐官",
         "thomasCook": "托迈酷客自动任务可0元0邮费兑换精美商品，申请分销加入酷客推荐官0元拥有自己的网店。",
-        "Sharecuts": "https://sharecuts.cn/user/KVlQooAqzA"
+        "Sharecuts": "https://sharecuts.cn/user/KVlQooAqzA",
+        "WeChat": "weixin://scanqrcode"
     },
     "Notice": false,
     "retrieveSmsCode": "https://jf.hisense.com/api/user-manage/front/user/resetPasswordBySmsCode",
