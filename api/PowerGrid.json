@@ -6,7 +6,7 @@
         "Notice": "null",
         "Subscribe": "https://shimo.im/api/newforms/forms/gCDhJcChXpP8vgqP/submit",
         "Code": "6e372743-a750-4255-9c4c-86c2c7921a6b",
-        "Notification": "https://gitee.com/vip4qiao/shortcuts/raw/master/img/PowerGrid/PowerGrid_0.png",
+        "Notification": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/PowerGrid/PowerGrid_0.png",
         "Lucky": "https://95598.csg.cn/ucs/ma/zt/center/getVerifyCode",
         "GetToken": {
             "body": {
@@ -33,7 +33,7 @@
     "MonthDetail": "https://95598.csg.cn/ucs/ma/zt/charge/selectElecBill",
     "Balance": "https://95598.csg.cn/ucs/ma/zt/charge/queryUserAccountNumberSurplus",
     "install": "workflow://shortcuts/6c974be9fad04a22984e6d12bdd70897",
-    "Login": "https://gitee.com/vip4qiao/shortcuts/raw/master/data/Request.js",
+    "Login": "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/Request.js",
     "SendMsg": "https://95598.csg.cn/ucs/ma/zt/center/sendMsg",
     "Yesterday": "https://95598.csg.cn/ucs/ma/zt/charge/queryDayElectricByMPointYesterday",
     "UserInfo": "https://95598.csg.cn/ucs/ma/zt/user/getUserInfoNoTuoMi",
