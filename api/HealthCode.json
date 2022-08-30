@@ -3,7 +3,7 @@
     "Version": "1.4",
     "Tracing": "https://i.snssdk.com/ugc/hotboard_fe/hot_list/template/hot_list/forum_tab.html?show_single_widget=32",
     "GeoCode": "https://onecode-appservice.digitalhainan.com.cn/amap/geocode/regeo",
-    "api": "https://gitcode.net/4qiao/shortcuts/raw/master/api/healthCode.json",
+    "api": "https://gitcode.net/4qiao/shortcuts/-/raw/master/api/healthCode.json",
     "install": "Shortcuts://shortcuts/8be76c1fa8b246b29c6840d6e71c3830",
     "User": {
         "Subscribe": "https://shimo.im/api/newforms/forms/WQYVWDvPkpCvwCG6/submit"
