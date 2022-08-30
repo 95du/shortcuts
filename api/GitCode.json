@@ -6,7 +6,7 @@
     "LetterConversion": "http://www.ku51.net/daxiaoxie/index.php",
     "install": "null",
     "User": {
-        "cookieTip": "在https://gitcode.net 抓登录时的包，然后输入请求头所有内容",
+        "cookieTip": "在https://gitcode.net 抓登录时的包，然后输入请求头所有内容，捷径自动匹配并存入Cookie到iCloud",
         "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ"
     },
     "GitCode": "https://gitcode.net",
