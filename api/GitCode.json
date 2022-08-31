@@ -7,7 +7,7 @@
     "install": "null",
     "User": {
         "cookieTip": "在已登录的https://gitcode.net 页面抓包，在抓包历史中找到这个URL，拷贝请求头所有内容，输入后捷径自动匹配并存入Cookie到iCloud中。",
-        "importURL": "从URL导入项目（ 如 : Coding / Git Hub / Bitbucket ）或另外的GitLab 服务器",
+        "importURL": "从URL导入项目（ 如 : Coding ，Git Hub ，Bitbucket ）或另外的GitLab 服务器",
         "Picture": "https://gitcode.net/4qiao/shortcuts/raw/master/data/icon/gitLab.png",
         "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ"
     },
