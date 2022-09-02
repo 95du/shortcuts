@@ -1,17 +1,20 @@
 {
-    "Update": "null",
-    "Version": "1.0",
-    "author": "OTXluqbojIXlj7A=",
-    "filesRequest": "fragment PageInfo on PageInfo {   __typename   hasNextPage   hasPreviousPage   startCursor   endCursor }  fragment TreeEntry on Entry {   __typename   id   sha   name   flatPath   type }  query getFiles(   $projectPath: ID!   $path: String   $ref: String!   $pageSize: Int!   $nextPageCursor: String ) {   project(fullPath: $projectPath) {     __typename     repository {       __typename       tree(path: $path, ref: $ref) {         __typename         trees(first: $pageSize, after: $nextPageCursor) {           __typename           edges {             __typename             node {               ...TreeEntry               webPath             }           }           pageInfo {             ...PageInfo           }         }         submodules(first: $pageSize, after: $nextPageCursor) {           __typename           edges {             __typename             node {               ...TreeEntry               webUrl               treeUrl             }           }           pageInfo {             ...PageInfo           }         }         blobs(first: $pageSize, after: $nextPageCursor) {           __typename           edges {             __typename             node {               ...TreeEntry               mode               webPath               lfsOid             }           }           pageInfo {             ...PageInfo           }         }       }     }   } }",
+    "GitCode": "https://gitcode.net",
     "LetterConversion": "http://www.ku51.net/daxiaoxie/index.php",
-    "install": "null",
     "User": {
         "cookieTip": "在https://gitcode.net 页面登录时抓包，在抓包历史中找到这个URL，拷贝请求头所有内容，登陆成功将保存Cookie到iCloud。",
         "importURL": "从URL导入项目\n从外部数据源迁移你的数据，例如 Coding ，Git Hub ，Bitbucket 或另外的GitLab 服务器",
         "Picture": "https://gitcode.net/4qiao/shortcuts/raw/master/data/icon/gitLab.png",
         "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ"
     },
-    "GitCode": "https://gitcode.net",
+    "Version": "1.0",
+    "Update": "null",
+    "author": "OTXluqbojIXlj7A=",
+    "Project": "https://gitcode.net/projects",
+    "install": "null",
+    "createGroup": "https://gitcode.net/groups",
+    "filesRequest": "fragment PageInfo on PageInfo {   __typename   hasNextPage   hasPreviousPage   startCursor   endCursor }  fragment TreeEntry on Entry {   __typename   id   sha   name   flatPath   type }  query getFiles(   $projectPath: ID!   $path: String   $ref: String!   $pageSize: Int!   $nextPageCursor: String ) {   project(fullPath: $projectPath) {     __typename     repository {       __typename       tree(path: $path, ref: $ref) {         __typename         trees(first: $pageSize, after: $nextPageCursor) {           __typename           edges {             __typename             node {               ...TreeEntry               webPath             }           }           pageInfo {             ...PageInfo           }         }         submodules(first: $pageSize, after: $nextPageCursor) {           __typename           edges {             __typename             node {               ...TreeEntry               webUrl               treeUrl             }           }           pageInfo {             ...PageInfo           }         }         blobs(first: $pageSize, after: $nextPageCursor) {           __typename           edges {             __typename             node {               ...TreeEntry               mode               webPath               lfsOid             }           }           pageInfo {             ...PageInfo           }         }       }     }   } }",
+    "Groups": "https://gitcode.net/dashboard/groups.json",
     "icons": [
         "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/apple.png",
         "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/one.png",
