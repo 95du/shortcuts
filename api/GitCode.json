@@ -13,7 +13,7 @@
     "author": "OTXluqbojIXlj7A=",
     "Script": "data:text/html;charset=utf-8,<script>document.write(encodeURIComponent(JSON.stringify",
     "createProject": "https://gitcode.net/projects",
-    "install": "null",
+    "install": "Shortcuts://shortcuts/6085c7ec048d4fa79b1149556e5b944d",
     "groupID": "https://gitcode.net/-/autocomplete/users.json?group_id=@&active=true",
     "createGroup": "https://gitcode.net/groups",
     "Groups": "https://gitcode.net/dashboard/groups.json",
