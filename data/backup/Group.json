@@ -285,6 +285,16 @@
                 }
             ],
             "stock": []
+        },
+        {
+            "name": "Guess",
+            "task": [
+                {
+                    "name": "情景模式",
+                    "Link": "https://www.icloud.com/shortcuts/00e4f646b433406cb1093f40c00e4cf5"
+                }
+            ],
+            "stock": []
         }
     ]
 }
