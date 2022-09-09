@@ -285,6 +285,16 @@
                 }
             ],
             "stock": []
+        },
+        {
+            "name": "测试",
+            "task": [
+                {
+                    "name": "情景模式",
+                    "Link": "https://www.icloud.com/shortcuts/03df29c149cd4728bd55be663d22a208"
+                }
+            ],
+            "stock": []
         }
     ]
 }
