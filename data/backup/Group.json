@@ -285,6 +285,16 @@
                 }
             ],
             "stock": []
+        },
+        {
+            "name": "Gucci",
+            "task": [
+                {
+                    "name": "App Store",
+                    "Link": "https://www.icloud.com/shortcuts/d6d35b8127a543218fa409f459ef50ab"
+                }
+            ],
+            "stock": []
         }
     ]
 }
