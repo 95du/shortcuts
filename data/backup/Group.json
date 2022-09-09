@@ -285,20 +285,6 @@
                 }
             ],
             "stock": []
-        },
-        {
-            "name": "Guess",
-            "task": [
-                {
-                    "name": "情景模式",
-                    "Link": "https://www.icloud.com/shortcuts/00e4f646b433406cb1093f40c00e4cf5"
-                },
-                {
-                    "name": "开奖结果",
-                    "Link": "https://www.icloud.com/shortcuts/3f9b8938351d4e04bbc8143801c81875"
-                }
-            ],
-            "stock": []
         }
     ]
 }
