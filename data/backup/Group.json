@@ -285,6 +285,16 @@
                 }
             ],
             "stock": []
+        },
+        {
+            "name": "吃宵夜",
+            "task": [
+                {
+                    "name": "App Store",
+                    "Link": "https://www.icloud.com/shortcuts/0ca0f50de9354257a15307ccdc128ab8"
+                }
+            ],
+            "stock": []
         }
     ]
 }
