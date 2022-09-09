@@ -285,6 +285,16 @@
                 }
             ],
             "stock": []
+        },
+        {
+            "name": "测试",
+            "task": [
+                {
+                    "name": "健康码",
+                    "Link": "https://www.icloud.com/shortcuts/bd1f845849cb481a8e84df360c8f0106"
+                }
+            ],
+            "stock": []
         }
     ]
 }
