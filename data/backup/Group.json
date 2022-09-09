@@ -34,14 +34,13 @@
                 {
                     "name": "钢琴曲",
                     "Link": "https://www.icloud.com/shortcuts/3c718baf6ca34eb2912d9f265f4f0e08"
-                }
-            ],
-            "stock": [
+                },
                 {
                     "name": "轻音乐",
                     "Link": "https://www.icloud.com/shortcuts/6bed506989e041ec9911efbad40ed67c"
                 }
-            ]
+            ],
+            "stock": []
         },
         {
             "name": "自动任务",
