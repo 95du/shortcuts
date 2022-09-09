@@ -288,12 +288,7 @@
         },
         {
             "name": "测试",
-            "task": [
-                {
-                    "name": "C 260 L运动版",
-                    "Link": "https://www.icloud.com/shortcuts/300115d19f6243d484d781cf6e8050a5"
-                }
-            ],
+            "task": [],
             "stock": []
         }
     ]
