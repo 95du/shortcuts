@@ -285,6 +285,16 @@
                 }
             ],
             "stock": []
+        },
+        {
+            "name": "好吧",
+            "task": [
+                {
+                    "name": "App Store",
+                    "Link": "https://www.icloud.com/shortcuts/192c8a9861154ef4afd0bb0e6d9d59ee"
+                }
+            ],
+            "stock": []
         }
     ]
 }
