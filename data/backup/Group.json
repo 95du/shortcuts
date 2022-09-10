@@ -289,6 +289,16 @@
                 }
             ],
             "stock": []
+        },
+        {
+            "name": "放假",
+            "task": [
+                {
+                    "name": "复制指令",
+                    "Link": "https://www.icloud.com/shortcuts/ed4c5eddd26246f089a1f848af5cf01d"
+                }
+            ],
+            "stock": []
         }
     ]
 }
