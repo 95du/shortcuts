@@ -42,6 +42,10 @@
                 {
                     "name": "Monitor",
                     "Link": "https://www.icloud.com/shortcuts/a74515bfbb3f4a1f904f23c8891424f8"
+                },
+                {
+                    "name": "JSON",
+                    "Link": "https://www.icloud.com/shortcuts/afcc2282d1bc4b27949672b9cf0d87cb"
                 }
             ],
             "stock": []
@@ -286,16 +290,6 @@
                 {
                     "name": "小工具",
                     "Link": "https://www.icloud.com/shortcuts/d6721d2bc69943189c69a14adad60df7"
-                }
-            ],
-            "stock": []
-        },
-        {
-            "name": "放假",
-            "task": [
-                {
-                    "name": "复制指令",
-                    "Link": "https://www.icloud.com/shortcuts/ed4c5eddd26246f089a1f848af5cf01d"
                 }
             ],
             "stock": []
