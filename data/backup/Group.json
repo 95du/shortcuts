@@ -303,6 +303,16 @@
                 }
             ],
             "stock": []
+        },
+        {
+            "name": "谢谢",
+            "task": [
+                {
+                    "name": "海信商城-自动任务",
+                    "Link": "https://www.icloud.com/shortcuts/825ca630b2d04fd2932f129f2915b3e9"
+                }
+            ],
+            "stock": []
         }
     ]
 }
