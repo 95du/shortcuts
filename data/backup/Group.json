@@ -285,6 +285,16 @@
                 }
             ],
             "stock": []
+        },
+        {
+            "name": "游戏",
+            "task": [
+                {
+                    "name": "App Store",
+                    "Link": "https://www.icloud.com/shortcuts/176555aa68ce4e33be8a0975f318acd8"
+                }
+            ],
+            "stock": []
         }
     ]
 }
