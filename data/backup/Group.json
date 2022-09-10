@@ -285,16 +285,6 @@
                 }
             ],
             "stock": []
-        },
-        {
-            "name": "自动化",
-            "task": [
-                {
-                    "name": "情景模式",
-                    "Link": "https://www.icloud.com/shortcuts/492f3cc35d3f4cd88538e0e08a8f6b64"
-                }
-            ],
-            "stock": []
         }
     ]
 }
