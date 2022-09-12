@@ -236,24 +236,8 @@
                     "Link": "https://www.icloud.com/shortcuts/72302b905d8e4b94ab8662a5f77625e8"
                 },
                 {
-                    "name": "Merge Dictionary",
-                    "Link": "https://www.icloud.com/shortcuts/ed5eba8400a940acb622c2101915d5bd"
-                },
-                {
-                    "name": "Text Convert Json",
-                    "Link": "https://www.icloud.com/shortcuts/a1bfd249769a40ea83114edf2ce14030"
-                },
-                {
-                    "name": "Coding",
-                    "Link": "https://www.icloud.com/shortcuts/cd33d337811b4f4483c3ca0da36be498"
-                },
-                {
                     "name": "Gitee码云",
                     "Link": "https://www.icloud.com/shortcuts/674deea78f30418b88ba009ec02817d9"
-                },
-                {
-                    "name": "JSON",
-                    "Link": "https://www.icloud.com/shortcuts/a0d5622659564726a9e8681e894eb26b"
                 },
                 {
                     "name": "GitCode",
@@ -264,14 +248,6 @@
                     "Link": "https://www.icloud.com/shortcuts/0e1b1283bf2f4d4c90990f3aa03d2108"
                 },
                 {
-                    "name": "GitCode Create",
-                    "Link": "https://www.icloud.com/shortcuts/bd5ae72c630f440b8a3796ed2aaa799e"
-                },
-                {
-                    "name": "GitCode Integration",
-                    "Link": "https://www.icloud.com/shortcuts/4f51142212994474aaa216fddaf041de"
-                },
-                {
                     "name": "Automation",
                     "Link": "https://www.icloud.com/shortcuts/436659f641c344ce990c9a146f40138f"
                 },
@@ -280,8 +256,36 @@
                     "Link": "https://www.icloud.com/shortcuts/d38c321878e04d7aac639034daaec169"
                 },
                 {
+                    "name": "Text Convert Json",
+                    "Link": "https://www.icloud.com/shortcuts/2b1b2f8ba8bd4cbda9d07c5ca0fc8e20"
+                },
+                {
+                    "name": "Merge Dictionary",
+                    "Link": "https://www.icloud.com/shortcuts/d2886b5834a440adacb08897d69a172f"
+                },
+                {
                     "name": "小工具",
-                    "Link": "https://www.icloud.com/shortcuts/d6721d2bc69943189c69a14adad60df7"
+                    "Link": "https://www.icloud.com/shortcuts/3b139b0b20594aef95c1ab463afe779b"
+                },
+                {
+                    "name": "Coding",
+                    "Link": "https://www.icloud.com/shortcuts/10ac755a18544af2948a2151e6e04cf3"
+                },
+                {
+                    "name": "JSON 3个",
+                    "Link": "https://www.icloud.com/shortcuts/5cef29ce88af4196ab0e7e2dd7856490"
+                },
+                {
+                    "name": "JSON",
+                    "Link": "https://www.icloud.com/shortcuts/8448e5a11c214f56a92f5b5bb553b547"
+                },
+                {
+                    "name": "GitCode Create",
+                    "Link": "https://www.icloud.com/shortcuts/ca5929ddd93e40de88534408ddc8c068"
+                },
+                {
+                    "name": "GitCode Integration",
+                    "Link": "https://www.icloud.com/shortcuts/951f75735dd14ff1b213a69ff9db31fb"
                 }
             ],
             "stock": []
