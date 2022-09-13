@@ -1,19 +1,17 @@
 {
     "GitCode": "https://gitcode.net",
-    "LetterConversion": "http://www.ku51.net/daxiaoxie/index.php",
     "User": {
-        "cookieTip": "在https://gitcode.net 页面登录时抓包，在抓包历史中找到这个URL，拷贝请求头所有内容，登陆成功将保存Cookie到iCloud。",
-        "importURL": "从URL导入项目\n从外部数据源迁移你的数据，例如 Coding ，Git Hub ，Bitbucket 或另外的GitLab 服务器",
+        "cookieTip": "在https://gitcode.net 页面登录时抓包，在抓包历史中找到以这个URL开头的链接，拷贝请求头所有内容，登陆成功将保存Cookie到iCloud。",
+        "importURL": "从URL导入项目\\n从外部数据源迁移你的数据，例如 Coding ，Git Hub ，Bitbucket 或另外的GitLab 服务器",
         "CheckData": "https://shimo.im/api/newforms/forms/913JVgoWyjHznp3E/submit",
         "Picture": "https://gitcode.net/4qiao/shortcuts/raw/master/data/icon/gitLab.png",
         "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ"
     },
     "Version": "1.0",
-    "Update": "null",
+    "Update": "1，增加转移项目功能\\n2，调整部分模块",
     "author": "OTXluqbojIXlj7A=",
-    "Script": "data:text/html;charset=utf-8,<script>document.write(encodeURIComponent(JSON.stringify",
     "createProject": "https://gitcode.net/projects",
-    "install": "Shortcuts://shortcuts/6085c7ec048d4fa79b1149556e5b944d",
+    "install": "Shortcuts://shortcuts/8ad31f200c8d4cf39b6a92815812d200",
     "groupID": "https://gitcode.net/-/autocomplete/users.json?group_id=@&active=true",
     "createGroup": "https://gitcode.net/groups",
     "Groups": "https://gitcode.net/dashboard/groups.json",
