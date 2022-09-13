@@ -7,10 +7,9 @@
         "Picture": "https://gitcode.net/4qiao/shortcuts/raw/master/data/icon/gitLab.png",
         "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ"
     },
-    "Version": "1.1",
+    "Version": "1.0",
     "Update": "1，增加转移项目功能\\n2，调整部分模块",
     "author": "OTXluqbojIXlj7A=",
-    "Script": "data:text/html;charset=utf-8,<script>document.write(encodeURIComponent(JSON.stringify",
     "createProject": "https://gitcode.net/projects",
     "install": "Shortcuts://shortcuts/8ad31f200c8d4cf39b6a92815812d200",
     "groupID": "https://gitcode.net/-/autocomplete/users.json?group_id=@&active=true",
