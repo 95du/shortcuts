@@ -9,11 +9,11 @@
         "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ"
     },
     "Version": "1.1",
-    "Update": "修复已知问题",
+    "Update": "null",
     "author": "OTXluqbojIXlj7A=",
     "Script": "data:text/html;charset=utf-8,<script>document.write(encodeURIComponent(JSON.stringify",
     "createProject": "https://gitcode.net/projects",
-    "install": "Shortcuts://shortcuts/dfc1a322c6f742cc9e3721eba89f771d",
+    "install": "Shortcuts://shortcuts/6adf2b2c4f794ab2bd86df63c5fd2e60",
     "groupID": "https://gitcode.net/-/autocomplete/users.json?group_id=@&active=true",
     "createGroup": "https://gitcode.net/groups",
     "Groups": "https://gitcode.net/dashboard/groups.json",
