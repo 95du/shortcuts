@@ -2,39 +2,48 @@
     "script": [
         {
             "name": "路虎Land Rover",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/landrover/landrover.js"
+            "URL": "https://api.ningkai.wang/scriptable-scripts/landrover/landrover.js",
+            "Logo": "Green"
         },
         {
             "name": "捷豹Jaguar",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/jaguar/jaguar.js"
+            "URL": "https://api.ningkai.wang/scriptable-scripts/jaguar/jaguar.js",
+            "Logo": "Red"
         },
         {
             "name": "奥迪Audi",
-            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js"
+            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
+            "Logo": "Yellow"
         },
         {
             "name": "宝马BMW",
-            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/bmw.js"
+            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/bmw.js",
+            "Logo": "Blue"
         },
         {
             "name": "雷克萨斯Lexus",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/lexus/lexus.js"
+            "URL": "https://api.ningkai.wang/scriptable-scripts/lexus/lexus.js",
+            "Logo": "Purple"
         },
         {
             "name": "广汽丰田Toyota",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/gtmc/gtmc.js"
+            "URL": "https://api.ningkai.wang/scriptable-scripts/gtmc/gtmc.js",
+            "Logo": "Orange"
         },
         {
             "name": "一汽丰田Toyota",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/ftms/ftms.js"
+            "URL": "https://api.ningkai.wang/scriptable-scripts/ftms/ftms.js",
+            "Logo": "Green"
         },
         {
             "name": "马自达Mazda",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/mzd/mzd.js"
+            "URL": "https://api.ningkai.wang/scriptable-scripts/mzd/mzd.js",
+            "Logo": "Yellow"
         },
         {
             "name": "魏牌WEY",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/wey/wey.js"
+            "URL": "https://api.ningkai.wang/scriptable-scripts/wey/wey.js",
+            "Logo": "Blue"
         }
     ],
     "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRunWidget.js"
