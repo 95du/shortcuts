@@ -7,6 +7,15 @@
         {
             "name": "捷豹Jaguar",
             "URL": "https://api.ningkai.wang/scriptable-scripts/jaguar/jaguar.js"
+        },
+        {
+            "name": "奥迪Audi",
+            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js"
+        },
+        {
+            "name": "宝马BMW",
+            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/bmw.js"
         }
-    ]
+    ],
+    "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRunWidget.js"
 }
