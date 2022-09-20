@@ -11,13 +11,15 @@
             "Logo": "Red"
         },
         {
-            "name": "奥迪Audi",
             "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
+            "install": "https://joiner.i95.me/index.html",
+            "name": "奥迪Audi",
             "Logo": "Yellow"
         },
         {
-            "name": "宝马BMW",
             "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/bmw.js",
+            "install": "https://bmw-linker.com/installer.js",
+            "name": "宝马BMW",
             "Logo": "Blue"
         },
         {
