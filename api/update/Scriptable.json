@@ -1,0 +1,12 @@
+{
+    "script": [
+        {
+            "name": "路虎Land Rover",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/landrover/landrover.js"
+        },
+        {
+            "name": "捷豹Jaguar",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/jaguar/jaguar.js"
+        }
+    ]
+}
