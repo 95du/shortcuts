@@ -46,6 +46,11 @@
             "name": "魏牌WEY",
             "URL": "https://api.ningkai.wang/scriptable-scripts/wey/wey.js",
             "Logo": "Lilac"
+        },
+        {
+            "name": "林肯Lincoln",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/lincoln/lincoln.js",
+            "Logo": "Green"
         }
     ],
     "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js",
