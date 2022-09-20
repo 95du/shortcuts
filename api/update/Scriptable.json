@@ -50,7 +50,12 @@
         {
             "name": "林肯Lincoln",
             "URL": "https://api.ningkai.wang/scriptable-scripts/lincoln/lincoln.js",
-            "Logo": "Green"
+            "Logo": "Blue"
+        },
+        {
+            "name": "福特Ford",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/ford/ford.js",
+            "Logo": "Yellow"
         }
     ],
     "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js",
