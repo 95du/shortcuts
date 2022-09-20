@@ -15,6 +15,26 @@
         {
             "name": "宝马BMW",
             "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/bmw.js"
+        },
+        {
+            "name": "雷克萨斯Lexus",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/lexus/lexus.js"
+        },
+        {
+            "name": "广汽丰田Toyota",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/gtmc/gtmc.js"
+        },
+        {
+            "name": "一汽丰田Toyota",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/ftms/ftms.js"
+        },
+        {
+            "name": "马自达Mazda",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/mzd/mzd.js"
+        },
+        {
+            "name": "魏牌WEY",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/wey/wey.js"
         }
     ],
     "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRunWidget.js"
