@@ -54,6 +54,11 @@
             "name": "福特Ford",
             "URL": "https://api.ningkai.wang/scriptable-scripts/ford/ford.js",
             "Logo": "Yellow"
+        },
+        {
+            "name": "一汽大众Volkswagen",
+            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
+            "Logo": "Blue"
         }
     ],
     "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js",
