@@ -41,11 +41,6 @@
             "Logo": "Red"
         },
         {
-            "name": "魏牌WEY",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/wey/wey.js",
-            "Logo": "Lilac"
-        },
-        {
             "name": "林肯Lincoln",
             "URL": "https://api.ningkai.wang/scriptable-scripts/lincoln/lincoln.js",
             "Logo": "Blue"
@@ -58,7 +53,12 @@
         {
             "name": "一汽大众Volkswagen",
             "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
-            "Logo": "Blue"
+            "Logo": "Orange"
+        },
+        {
+            "name": "魏牌WEY",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/wey/wey.js",
+            "Logo": "Lilac"
         }
     ],
     "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js",
