@@ -61,6 +61,8 @@
             "Logo": "Lilac"
         }
     ],
-    "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js",
-    "author": "OTXluqbojIXlj7A="
+    "Version": "1.0",
+    "install": "null",
+    "author": "OTXluqbojIXlj7A=",
+    "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js"
 }
