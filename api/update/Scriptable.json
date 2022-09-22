@@ -36,9 +36,9 @@
             "Logo": "Green"
         },
         {
-            "name": "马自达Mazda",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/mzd/mzd.js",
-            "Logo": "Red"
+            "name": "大众Volkswagen",
+            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
+            "Logo": "Orange"
         },
         {
             "name": "林肯Lincoln",
@@ -51,9 +51,9 @@
             "Logo": "Yellow"
         },
         {
-            "name": "大众Volkswagen",
-            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
-            "Logo": "Orange"
+            "name": "马自达Mazda",
+            "URL": "https://api.ningkai.wang/scriptable-scripts/mzd/mzd.js",
+            "Logo": "Red"
         },
         {
             "name": "魏牌WEY",
