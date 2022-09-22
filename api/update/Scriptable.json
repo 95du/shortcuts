@@ -51,7 +51,7 @@
             "Logo": "Yellow"
         },
         {
-            "name": "一汽大众Volkswagen",
+            "name": "大众Volkswagen",
             "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
             "Logo": "Orange"
         },
@@ -62,7 +62,7 @@
         }
     ],
     "Version": "1.0",
-    "install": "null",
+    "install": "Shortcuts://shortcuts/b05bf5a1f58a488590f0c85a772f197e",
     "author": "OTXluqbojIXlj7A=",
     "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js"
 }
