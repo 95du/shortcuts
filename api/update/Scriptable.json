@@ -64,5 +64,10 @@
     "Version": "1.0",
     "install": "Shortcuts://shortcuts/b05bf5a1f58a488590f0c85a772f197e",
     "author": "OTXluqbojIXlj7A=",
-    "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js"
+    "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js",
+    "Mercedes": [
+        "https://gitcode.net/4qiao/shortcuts/raw/master/update/img/Maybach.png",
+        "https://gitcode.net/4qiao/shortcuts/raw/master/update/img/MaybachGLS_2.png",
+        "https://gitcode.net/4qiao/shortcuts/raw/master/update/img/S-Class.png"
+    ]
 }
