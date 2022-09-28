@@ -69,8 +69,10 @@
     ],
     "install": "Shortcuts://shortcuts/b05bf5a1f58a488590f0c85a772f197e",
     "Mercedes": [
-        "https://gitcode.net/4qiao/shortcuts/raw/master/update/img/Maybach.png",
-        "https://gitcode.net/4qiao/shortcuts/raw/master/update/img/S-Class.png",
-        "https://gitcode.net/4qiao/shortcuts/raw/master/update/img/E-Class_1.png"
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/s-class.png",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-1.png",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-2.png",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-3.png",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-4.png"
     ]
 }
