@@ -65,11 +65,9 @@
         }
     ],
     "health": [
-        0,
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/picture_2.jpeg",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/picture_3.jpeg",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/picture_4.jpeg",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/picture_5.jpeg"
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/photo_1.jpeg",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/photo_2.jpeg",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/photo_3.jpeg"
     ],
     "install": "Shortcuts://shortcuts/b05bf5a1f58a488590f0c85a772f197e",
     "Mercedes": [
