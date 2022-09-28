@@ -1,4 +1,7 @@
 {
+    "author": "OTXluqbojIXlj7A=",
+    "Version": "1.0",
+    "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js",
     "script": [
         {
             "name": "路虎Land Rover",
@@ -61,10 +64,11 @@
             "Logo": "Lilac"
         }
     ],
-    "Version": "1.0",
+    "health": [
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/pic_1.png",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/pic_2.png"
+    ],
     "install": "Shortcuts://shortcuts/b05bf5a1f58a488590f0c85a772f197e",
-    "author": "OTXluqbojIXlj7A=",
-    "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js",
     "Mercedes": [
         "https://gitcode.net/4qiao/shortcuts/raw/master/update/img/Maybach.png",
         "https://gitcode.net/4qiao/shortcuts/raw/master/update/img/S-Class.png",
