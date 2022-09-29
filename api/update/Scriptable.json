@@ -67,9 +67,12 @@
             "Logo": "Lilac"
         }
     ],
-    "symbol": [
-        "paperplane.fill",
-        "exclamationmark.shield.fill"
+    "mercedes": [
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/mercedes/sclass-1.jpeg",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/mercedes/sclass-2.jpeg",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/mercedes/maybach-1.jpeg",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/mercedes/maybach-2.jpeg",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/mercedes/maybach-3.jpeg"
     ],
     "install": "Shortcuts://shortcuts/b05bf5a1f58a488590f0c85a772f197e",
     "Mercedes": [
