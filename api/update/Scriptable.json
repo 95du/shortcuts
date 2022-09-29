@@ -67,6 +67,10 @@
             "Logo": "Lilac"
         }
     ],
+    "symbol": [
+        "paperplane.fill",
+        "exclamationmark.shield.fill"
+    ],
     "install": "Shortcuts://shortcuts/b05bf5a1f58a488590f0c85a772f197e",
     "Mercedes": [
         "https://gitcode.net/4qiao/scriptable/raw/master/img/car/s-class.png",
