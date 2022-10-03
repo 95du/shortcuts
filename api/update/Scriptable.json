@@ -57,6 +57,11 @@
             "Logo": "Yellow"
         },
         {
+            "name": "东风本田",
+            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/hondaCivic.js",
+            "Logo": "Blue"
+        },
+        {
             "name": "马自达Mazda",
             "URL": "https://api.ningkai.wang/scriptable-scripts/mzd/mzd.js",
             "Logo": "Red"
