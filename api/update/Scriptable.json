@@ -42,6 +42,11 @@
             "Logo": "Green"
         },
         {
+            "name": "东风本田",
+            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/hondaCivic.js",
+            "Logo": "Lilac"
+        },
+        {
             "name": "大众Volkswagen",
             "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
             "Logo": "Orange"
@@ -55,11 +60,6 @@
             "name": "福特Ford",
             "URL": "https://api.ningkai.wang/scriptable-scripts/ford/ford.js",
             "Logo": "Yellow"
-        },
-        {
-            "name": "东风本田",
-            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/hondaCivic.js",
-            "Logo": "Blue"
         },
         {
             "name": "马自达Mazda",
