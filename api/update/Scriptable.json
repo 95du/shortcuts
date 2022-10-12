@@ -89,5 +89,9 @@
         "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach2.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach3.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach4.png"
+    ],
+    "Oil": [
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/violation/Oil_0.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/violation/Oil_2.jpeg"
     ]
 }
