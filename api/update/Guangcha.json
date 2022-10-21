@@ -1,0 +1,32 @@
+{
+    "Update": "null",
+    "Version": "1.0",
+    "author": "OTXluqbojIXlj7A=",
+    "GetSMS": "https://scgcapi.sctv-tf.com/getAuthCode",
+    "Login": "https://scgcapi.sctv-tf.com/accountLogin",
+    "runTask": "https://scgcmallapi.sctv-tf.com/addIntegral",
+    "UserInfo": "https://scgcmallapi.sctv-tf.com/getUserInfo",
+    "today": "https://scgcmallapi.sctv-tf.com/integral/today?token=",
+    "taskList": [
+        {
+            "name": "签到"
+        },
+        {
+            "name": "发表"
+        },
+        {
+            "name": "点赞"
+        },
+        {
+            "name": "评论"
+        },
+        {
+            "name": "分享"
+        },
+        {
+            "name": "阅读"
+        }
+    ],
+    "install": "null",
+    "Picture": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/4a/b0/aa4ab0f1-4c0c-a958-4387-697259dfbbd2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png"
+}
