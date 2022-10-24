@@ -1,0 +1,9 @@
+{
+    "alipay": "alipays://platformapi/startapp?appId=2019050964403523",
+    "Version": "1.0",
+    "infoURL": "https://miniappcsfw.122.gov.cn:8443/openapi/invokeApi/business/biz",
+    "productId": "p10000000000000000001",
+    "status": "alipays://platformapi/startapp?appId=2019050964403523&page=pages%2Flicense%2Flicense",
+    "api": "biz.vio.unhandledVioCount.query",
+    "update": "https://gitcode.net/4qiao/scriptable/raw/master/api/violation.js"
+}
