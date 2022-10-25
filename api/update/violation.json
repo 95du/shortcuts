@@ -1,12 +1,12 @@
 {
     "api4": "biz.vio.detail.query",
-    "Version": "1.0",
     "infoURL": "https://miniappcsfw.122.gov.cn:8443/openapi/invokeApi/business/biz",
     "api1": "biz.vio.unhandledVioCount.query",
     "productId": "p10000000000000000001",
-    "api2": "biz.vio.peccancyChannelList.query",
     "alipay": "alipays://platformapi/startapp?appId=2019050964403523",
+    "api2": "biz.vio.peccancyChannelList.query",
     "status": "alipays://platformapi/startapp?appId=2019050964403523&page=pages%2Flicense%2Flicense",
     "update": "https://gitcode.net/4qiao/scriptable/raw/master/api/violation.js",
-    "api3": "biz.vio.peccancyUnhandleInfoList.query"
+    "api3": "biz.vio.peccancyUnhandleInfoList.query",
+    "Ver": "1.0"
 }
