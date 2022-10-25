@@ -8,5 +8,5 @@
     "status": "alipays://platformapi/startapp?appId=2019050964403523&page=pages%2Flicense%2Flicense",
     "update": "https://gitcode.net/4qiao/scriptable/raw/master/api/violation.js",
     "api3": "biz.vio.peccancyUnhandleInfoList.query",
-    "Ver": "1.0"
+    "Ver": "Version 1.0"
 }
