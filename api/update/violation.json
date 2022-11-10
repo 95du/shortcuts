@@ -8,5 +8,5 @@
     "status": "alipays://platformapi/startapp?appId=2019050964403523&page=pages%2Flicense%2Flicense",
     "update": "https://gitcode.net/4qiao/scriptable/raw/master/api/violation.js",
     "api3": "biz.vio.peccancyUnhandleInfoList.query",
-    "Ver": "Version 1.2\n\nverifyToken过期需打开Quantumult-X"
+    "Ver": "Version 1.2\n\nverifyToken过期需打开Quantumult-X，点击下面菜单的GetToken跳转到支付宝小程序交管12123页面自动获取。"
 }
