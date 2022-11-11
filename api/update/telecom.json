@@ -1,0 +1,11 @@
+{
+    "update": "https://gitcode.net/4qiao/scriptable/raw/master/api/telecom.js",
+    "Ver": "Version 1.0\n\nCookie过期需打开Quantumult-X\n点击下面菜单的GetCookie跳转到天翼账号中心页面自动获取。",
+    "telecomLogo": "https://gitcode.net/4qiao/scriptable/raw/master/img/icon/telecomLogo.png",
+    "getCookie": "http://boxjs.com/query/data/china_telecom_cookie",
+    "getLoginUrl": "http://boxjs.com/query/data/china_telecom_login_url",
+    "surplus": "https://e.189.cn/store/user/package_detail.do?t=189Bill",
+    "referer": "https://open.e.189.cn/api/logbox/oauth2/wap/autoLogin.do?clientType=2&appId=8134110131&format=redirect",
+    "balance": "https://e.189.cn/store/user/balance_new.do?t=189Bill",
+    "loginPortal": "http://u3v.cn/5uwtIP"
+}
