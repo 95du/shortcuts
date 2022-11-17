@@ -3,7 +3,7 @@
     "api1": "biz.vio.unhandledVioCount.query",
     "version": "1.0.1",
     "infoURL": "https://miniappcsfw.122.gov.cn:8443/openapi/invokeApi/business/biz",
-    "Ver": "Version 1.3\n调整违章详情显示布局‼️\n\nverifyToken过期需打开Quantumult-X\n点击下面菜单的GetToken跳转到支付宝小程序交管12123页面自动获取。",
+    "Ver": "Version 1.3.1\n修复已知问题及一些调整‼️\n\nverifyToken过期需打开Quantumult-X\n点击下面菜单的GetToken跳转到支付宝小程序交管12123页面自动获取。",
     "api4": "biz.vio.detail.query",
     "details": "alipays://platformapi/startapp?appId=2019050964403523&page=pages%2Fvehicle-illegal-query%2Findex",
     "update": "https://gitcode.net/4qiao/scriptable/raw/master/api/violation.js",
