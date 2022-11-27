@@ -4,7 +4,7 @@
     "telecomLogo": "https://gitcode.net/4qiao/scriptable/raw/master/img/icon/telecomLogo.png",
     "getCookie": "http://boxjs.com/query/data/china_telecom_cookie",
     "getLoginUrl": "http://boxjs.com/query/data/china_telecom_login_url",
-    "TelecomLogo": "",
+    "TelecomLogo": "https://gitcode.net/4qiao/scriptable/raw/master/img/icon/TelecomLogo.png",
     "surplus": "https://e.189.cn/store/user/package_detail.do?t=189Bill",
     "referer": "https://open.e.189.cn/api/logbox/oauth2/wap/autoLogin.do?clientType=2&appId=8134110131&format=redirect",
     "balance": "https://e.189.cn/store/user/balance_new.do?t=189Bill",
