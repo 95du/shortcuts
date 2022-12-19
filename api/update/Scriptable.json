@@ -1,90 +1,10 @@
 {
-    "author": "OTXluqbojIXlj7A=",
-    "Version": "1.0",
-    "addRun": "https://gitcode.net/4qiao/scriptable/raw/master/api/addRun.js",
-    "health": [
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/health/photo_2.jpeg"
-    ],
-    "script": [
-        {
-            "name": "路虎Land Rover",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/landrover/landrover.js",
-            "Logo": "Green"
-        },
-        {
-            "name": "捷豹Jaguar",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/jaguar/jaguar.js",
-            "Logo": "Red"
-        },
-        {
-            "name": "奥迪Audi",
-            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
-            "Logo": "Yellow"
-        },
-        {
-            "name": "宝马BMW",
-            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/bmw.js",
-            "Logo": "Blue"
-        },
-        {
-            "name": "雷克萨斯Lexus",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/lexus/lexus.js",
-            "Logo": "Purple"
-        },
-        {
-            "name": "广汽丰田Toyota",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/gtmc/gtmc.js",
-            "Logo": "Orange"
-        },
-        {
-            "name": "一汽丰田Toyota",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/ftms/ftms.js",
-            "Logo": "Green"
-        },
-        {
-            "name": "东风本田",
-            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/hondaCivic.js",
-            "Logo": "Lilac"
-        },
-        {
-            "name": "大众Volkswagen",
-            "URL": "https://gitcode.net/4qiao/scriptable/raw/master/api/audi.js",
-            "Logo": "Orange"
-        },
-        {
-            "name": "林肯Lincoln",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/lincoln/lincoln.js",
-            "Logo": "Blue"
-        },
-        {
-            "name": "福特Ford",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/ford/ford.js",
-            "Logo": "Yellow"
-        },
-        {
-            "name": "马自达Mazda",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/mzd/mzd.js",
-            "Logo": "Red"
-        },
-        {
-            "name": "魏牌WEY",
-            "URL": "https://api.ningkai.wang/scriptable-scripts/wey/wey.js",
-            "Logo": "Lilac"
-        }
-    ],
-    "mercedes": [
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/mercedes/sclass-1.jpeg",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/mercedes/maybach-1.jpeg",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/mercedes/maybach-2.jpeg",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/mercedes/maybach-3.jpeg"
-    ],
     "install": "Shortcuts://shortcuts/b05bf5a1f58a488590f0c85a772f197e",
     "maybach": [
         "https://gitcode.net/4qiao/scriptable/raw/master/img/car/s-class.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-1.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-2.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-3.png",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach0.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach1.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach2.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach3.png",
