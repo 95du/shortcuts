@@ -3,7 +3,7 @@
     "api1": "biz.vio.unhandledVioCount.query",
     "version": "1.0.1",
     "infoURL": "https://miniappcsfw.122.gov.cn:8443/openapi/invokeApi/business/biz",
-    "Ver": "Version 1.4.0\n增加组件安装器及一些调整‼️\n\nverifyToken过期后，点击通知框自动跳转到支付宝12123小程序页面重新获取 ( 请确保已打开辅助工具 )\n\r小组件作者 95度茅台",
+    "Ver": "Version 1.4.0\n\n 自动获取Token需要Quantumult-X / Surge 辅助运行\n\n具体方法请查看小组件代码开头注释\n\r\n小组件作者: 95度茅台\n获取Token作者: @FoKit",
     "api4": "biz.vio.detail.query",
     "details": "alipays://platformapi/startapp?appId=2019050964403523&page=pages%2Fvehicle-illegal-query%2Findex",
     "update": "https://gitcode.net/4qiao/scriptable/raw/master/api/violation.js",
