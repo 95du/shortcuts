@@ -1,10 +1,12 @@
+// Variables used by Scriptable.
+// These must be at the very top of the file. Do not edit.
+// icon-color: orange; icon-glyph: toggle-on;
 const menu = new Alert()
 menu.title = '选择获取 Cookie 的线路'
 menu.addAction('京东商城线路')
 menu.addAction('京东金融线路')
 menu.addCancelAction('取消')
 const mode = await menu.presentSheet()
-console.log(mode);
 
 if (mode == 0) {
   getCookie('https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwqs.jd.com%2Fmy%2Faccountv2.shtml%3Fsceneval%3D2%26jxsid%3D16323729562173504755%26ptag%3D7155.1.2&source=wq_passport')
@@ -13,7 +15,6 @@ if (mode == 0) {
 }
 
 async function getCookie (url) {
-  console.log(url);
   let notice = new Notification();
   const webView = new WebView();
   await webView.loadURL(url);
@@ -40,18 +41,16 @@ async function getCookie (url) {
 
   if (cookie.length != 0) {
     account.cookie = cookie.join(';');
-    console.log(account.cookie + ";");
+    console.log(account.cookie)
     Pasteboard.copy(account.cookie);
-    notice.body = '成功获取到Cookie，已储存到iCloud'
+    notice.title = '成功获取到Cookie，已储存到iCloud'
+    notice.body = account.cookie
     notice.sound = 'complete'
-    notice.schedule()
     Safari.open("shortcuts://");
   } else {
     notice.body = '获取Cookie失败'
     notice.sound = 'failure'
-    notice.schedule()
   }
+  notice.schedule()
+  Script.complete()
 }
-
-
-Script.complete()
