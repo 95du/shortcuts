@@ -1,7 +1,8 @@
 {
     "script": [
-        "https://gitcode.net/4qiao/scriptable/raw/master/vip/mainScript12123.js",
-        "https://gitcode.net/4qiao/scriptable/raw/master/vip/mainScriptOil.js"
+        "https://gitcode.net/4qiao/framework/raw/master/api/mainTelecom_UITable.js",
+        "https://gitcode.net/4qiao/framework/raw/master/api/mainOil_UITable.js",
+        "https://gitcode.net/4qiao/framework/raw/master/api/main12123_UITable.js"
     ],
     "shortcuts2": "https://www.icloud.com/shortcuts/1e7dd227d9244611803ac712e5321598",
     "msg": "\r\n需用户自行添加小组件的脚本URL，这里提供GitCode代码仓的2个快捷指令，第一个创建仓库，复制代码手动上传【详情请在快捷指令中查看及操作】，第二个将 Scriptable 分享中的 Share JavaScript file 代码一键上传到仓库中，并自动获取URL，然后再回到此小组件中添加，如有疑问请在Tg群中询问\n\r\n快捷指令作者: 95度茅台",
