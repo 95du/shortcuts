@@ -3,7 +3,7 @@
     "api1": "biz.vio.unhandledVioCount.query",
     "version": "1.0.1",
     "infoURL": "https://miniappcsfw.122.gov.cn:8443/openapi/invokeApi/business/biz",
-    "Ver": "Version 1.2.0\n\n1，支持多车辆、多次违章( 随机显示 )\n2，点击地址跳转随机显示违章的照片\n\n小组件作者: 95度茅台\n获取Token作者: @FoKit",
+    "Ver": "Version 1.2.5\n\n重新安装此小组件，详情请在代码开头注释中查看\n\n小组件作者: 95度茅台\n获取Token作者: @FoKit",
     "api4": "biz.vio.detail.query",
     "details": "alipays://platformapi/startapp?appId=2019050964403523&page=pages%2Fvehicle-illegal-query%2Findex",
     "update": "https://gitcode.net/4qiao/scriptable/raw/master/api/violation.js",
