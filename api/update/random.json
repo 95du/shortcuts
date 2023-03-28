@@ -1,8 +1,7 @@
 {
     "script": [
         "https://gitcode.net/4qiao/framework/raw/master/api/mainTelecom_UITable.js",
-        "https://gitcode.net/4qiao/framework/raw/master/api/mainOil_UITable.js",
-        "https://gitcode.net/4qiao/framework/raw/master/api/mainJD_Bill_UITable.js"
+        "https://gitcode.net/4qiao/framework/raw/master/api/mainOil_UITable.js"
     ],
     "shortcuts2": "https://www.icloud.com/shortcuts/1e7dd227d9244611803ac712e5321598",
     "msg": "95度茅台",
