@@ -11,14 +11,14 @@
     "api3": "biz.vio.peccancyUnhandleInfoList.query",
     "detailsUrl": "alipays://platformapi/startapp?appId=2019050964403523&page=pages%2Fvehicle-illegal-query%2Findex",
     "maybach": [
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/s-class.png",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-0.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-1.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-2.png",
         "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-3.png",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach1.png",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach2.png",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach3.png",
-        "https://gitcode.net/4qiao/scriptable/raw/master/img/vehicle/maybach4.png"
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-4.png",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-5.png",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-6.png",
+        "https://gitcode.net/4qiao/scriptable/raw/master/img/car/Maybach-7.png"
     ],
     "api2": "biz.vio.peccancyChannelList.query"
 }
