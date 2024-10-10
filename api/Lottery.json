@@ -1,0 +1,17 @@
+{
+    "Update": "更新数据源",
+    "Version": "1.1",
+    "author": "OTXluqbojIXlj7A=",
+    "Request": "vU9OZmOQo5fYC6i26WbVO6o+rYL608QR6RZvwWbho2dYUjvBx1qovs4Fs+3V/YNEk8TZzoZfxk6obFoo95P8gJ/+hWJwkP30ESDZaWlZ5+o/LqzJqFjWT4p6LY/4XiRQ1vf8VSz+qFM9FfaiOOJ+pn3QrdpCMj0/m2UP8aFEBwlouZGqCF5mca7WoqK/JtrxnnIyjlsGKUvlRiy231E+k5nONac9XwErQtX8TFLzVKFf+EWhaSx/qcuhiQymRd0F5K7nBZw/OSlx8Ts/TR5MITlePAuUsSZ/H/OIY4nb0dnnztQpx5v3EhlunB+/vKEhVR5O0gvYQBh3qKIQFk64zmC/Amk0IXgp51jTwSJQbYZcUe+vw/Z7R9aAfYYm6ChPiUvoHBQJQOeT94PoMcd/6JbkC7rXA4nbEKRGYemZm6U=",
+    "Lottery": "http://api.caihongduoduo.com/jddods/appadmin/unct/public/handler",
+    "HTML": "data:text/html;charset=utf-8,<script>",
+    "Subscribe": "https://shimo.im/api/newforms/forms/kWDCwYKxkpthcKQD/submit",
+    "getVerifyCode": "https://95598.csg.cn/ucs/ma/zt/center/getVerifyCode",
+    "install": "Shortcuts://shortcuts/198d910ab7934f389a5ec4025e021980",
+    "Base": "data:image/jpg;base64,",
+    "Picture": [
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/lottery/Lottery_1.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/lottery/Lottery_2.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/lottery/Lottery_3.jpeg"
+    ]
+}

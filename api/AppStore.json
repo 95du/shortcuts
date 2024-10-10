@@ -1,0 +1,26 @@
+{
+    "SearchApp": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/appStore/Search.png",
+    "Character": 300,
+    "User": {
+        "Audio": "file:///System/Library/Audio/UISounds/payment_success.caf",
+        "Subscribe": "https://shimo.im/api/newforms/forms/DvkpwQ9y3HkRQg9C/submit"
+    },
+    "Version": "1.5",
+    "Update": "检测到新的版本‼️\n\n* 修复一些错误\n\n2022年8月17日 23:27 - Version1.3",
+    "RowNumber": "行",
+    "install": "workflow://shortcuts/61ba592c08c6486d87813a78a740a79a",
+    "Number": 8,
+    "Manage": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/appStore/Manage.png",
+    "ShortLink": "http://api.suowo.cn/api.htm?key=612e59e4dac44333842d8bcd@501d94dfdca7546e73ed32a68d6500a8&expireDate=2030-03-31&url=",
+    "Notification": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/appStore/Notification.png",
+    "iTunes": "https://itunes.apple.com/cn/lookup?id=",
+    "Tips": "数据有变，需重新订阅App（ 然后设置自动化 ）",
+    "Parameter": "&Parameter=",
+    "Row": "12",
+    "Menu": {
+        "Main": "Main",
+        "Task": "Task",
+        "Delete": "Delete",
+        "Search": "Search"
+    }
+}

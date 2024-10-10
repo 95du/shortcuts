@@ -1,0 +1,13 @@
+{
+    "Update": "更新数据源",
+    "Version": "1.2",
+    "Upwallet": "upwallet://applet?toLink=",
+    "Notice": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/picture/UnionPay_Logo.png",
+    "PayCode": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/other/云闪付付款码.png",
+    "AppID": "&encryptAppId=",
+    "install": "Shortcuts://shortcuts/76ad9658fe7848c98b9da091c55edc0e",
+    "User": {
+        "Subscribe": "https://shimo.im/api/newforms/forms/tkxPXKT3pH6gRXrW/submit"
+    },
+    "Pay": "upwallet://pay"
+}

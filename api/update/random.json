@@ -1,0 +1,10 @@
+{
+    "script": [
+        "https://gitcode.net/4qiao/framework/raw/master/api/web_main_oil_price.js"
+    ],
+    "shortcuts2": "https://www.icloud.com/shortcuts/1e7dd227d9244611803ac712e5321598",
+    "msg": "95度茅台",
+    "update": "https://gitcode.net/4qiao/scriptable/raw/master/api/randomScript.js",
+    "shortcuts1": "https://www.icloud.com/shortcuts/e3bdc1f930d74a14beb6218b8164e4e0",
+    "version": "\n添加小组件的脚本URL( 可无限添加 )\n在桌面随机切换显示所添加的小组件\n\r小组件作者 : 95度茅台"
+}

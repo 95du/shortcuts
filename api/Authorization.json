@@ -1,0 +1,19 @@
+{
+    "Authorization_2": "https://gitcode.net/4qiao/shortcuts/raw/master/script/GetJDcookie.js",
+    "Scriptable": "https://apps.apple.com/cn/app/scriptable/id1405459188",
+    "Request": "Post",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "Audio": "file:///System/Library/Audio/UISounds/payment_success.caf",
+    "Login": "Login",
+    "Authorization": "https://gitcode.net/4qiao/shortcuts/raw/master/script/JDcookie.js",
+    "User": {
+        "Info": "https://wq.jd.com/user/info/QueryJDUserInfo?sceneval=2"
+    },
+    "Base": {
+        "Accept": "application/json,text/plain, */*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Accept-Language": "zh-cn",
+        "Referer": "https://wqs.jd.com/my/jingdou/my.shtml?sceneval=2"
+    }
+}

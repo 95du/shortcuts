@@ -1,0 +1,28 @@
+{
+    "Update": "null",
+    "Version": "1.0",
+    "author": "OTXluqbojIXlj7A=",
+    "Notice": false,
+    "Referral": [
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_1.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_2.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_3.jpeg"
+    ],
+    "install": "null",
+    "Recom": {
+        "WeChat": "weixin://scanqrcode",
+        "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ",
+        "Store": "加入酷客推荐官后，登录网页版、App、微信小程序进入页面找到我的小店，分享素材赚佣金。",
+        "Title": "识别二维码申请推荐官",
+        "Tips": "加入酷客推荐官二维码已储存到相册中"
+    },
+    "User": {
+        "Picture": "https://image.fosunholiday.com/cl/image/20210622/60d1a206f08eac2903b29dad.gif",
+        "Subscribe": "https://shimo.im/api/newforms/forms/vVAXVyXwLwUb72qm/submit",
+        "Version": "null",
+        "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06BCLF",
+        "Sharecuts": "https://sharecuts.cn/shortcut/11628",
+        "Release": "null",
+        "ThomasCook": "Thomas Cook 托迈酷客是复星旅游文化集团（简称“复星旅文”）旗下的生活方式品牌。"
+    }
+}

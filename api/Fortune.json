@@ -1,0 +1,94 @@
+{
+    "Update": "null",
+    "Version": "2.0",
+    "Token": "&ld=-1&vc=xcx&token=Mh8tGmSoW3fyH642Y+Eb3E&rq=",
+    "Gender": "https://api.xzw.com/com/json/gender.js?id=",
+    "Menu": {
+        "Main": "Main",
+        "Date": "Date",
+        "Boy": "Boy",
+        "Girl": "Girl"
+    },
+    "Boy": "&tid=0&vc=xcx&token=Mh8tGmSZorbvn243Q",
+    "Fortune": "https://api.xzw.com/com/json/fortune/?id=",
+    "Girl": "&tid=1&vc=xcx&token=Mh8tGmSZorbvn243Q",
+    "install": "workflow://shortcuts/edf11de464f24d5fb579c3781a06763b",
+    "User": {
+        "Chanify": "https://api.chanify.net/v1/sender/CNTwxawGEiJBQUpENkNHSVIzSE00RzM1Q0RQSkRMS0ZFWkozU0pKQU40IgsIAhoHRm9ydHVuZQ.KXML0bJmmfWLx0usoigxJYp7FNMiWLkm2wRnpFwaJmE?sound=1&priority=10",
+        "Subscribe": "https://shimo.im/api/newforms/forms/X9HWP3vTDvpgVyTV/submit"
+    },
+    "Constellation": [
+        {
+            "Date": "03.21 - 04.19",
+            "name": "白羊座",
+            "Number": "1",
+            "Code": "Aries"
+        },
+        {
+            "Date": "04.20 - 05.20",
+            "name": "金牛座",
+            "Number": "2",
+            "Code": "Taurus"
+        },
+        {
+            "Date": "05.21 - 06.21",
+            "name": "双子座",
+            "Number": "3",
+            "Code": "Gemini"
+        },
+        {
+            "Date": "06.22 - 07.22",
+            "name": "巨蟹座",
+            "Number": "4",
+            "Code": "Cancer "
+        },
+        {
+            "Date": "07.23 - 08.22",
+            "name": "狮子座",
+            "Number": "5",
+            "Code": "Leo"
+        },
+        {
+            "Date": "08.23 - 09.22",
+            "name": "处女座",
+            "Number": "6",
+            "Code": "Virgo"
+        },
+        {
+            "Date": "09.23 - 10.23",
+            "name": "天秤座",
+            "Number": "7",
+            "Code": "Libra"
+        },
+        {
+            "Date": "10.24 - 11.22",
+            "name": "天蝎座",
+            "Number": "8",
+            "Code": "Scorpio"
+        },
+        {
+            "Date": "11.23 - 12.21",
+            "name": "射手座",
+            "Number": "9",
+            "Code": "Sagittarius"
+        },
+        {
+            "Date": "12.22 - 01.19",
+            "name": "摩羯座",
+            "Number": "10",
+            "Code": "Capricorn"
+        },
+        {
+            "Date": "01.20 - 02.18",
+            "name": "水瓶座",
+            "Number": "11",
+            "Code": "Aquarius"
+        },
+        {
+            "Date": "02.19 - 03.20",
+            "name": "双鱼座",
+            "Number": "12",
+            "Code": "Pisces"
+        }
+    ]
+}

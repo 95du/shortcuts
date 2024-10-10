@@ -1,0 +1,30 @@
+{
+    "GitCode": "https://gitcode.net",
+    "User": {
+        "cookieTip": "在https://gitcode.net 页面登录时抓包，在抓包历史中找到以这个URL开头的链接，拷贝请求头所有内容，登陆成功将保存Cookie到iCloud。",
+        "importURL": "从URL导入项目\n从外部数据源迁移你的数据，例如 Coding ，Git Hub ，Bitbucket 或另外的GitLab 服务器",
+        "CheckData": "https://shimo.im/api/newforms/forms/913JVgoWyjHznp3E/submit",
+        "Picture": "https://gitcode.net/4qiao/shortcuts/raw/master/data/icon/gitLab.png",
+        "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ"
+    },
+    "Version": "1.1",
+    "Update": "1，增加转移项目功能\n2，调整部分模块",
+    "author": "OTXluqbojIXlj7A=",
+    "Script": "data:text/html;charset=utf-8,<script>document.write(encodeURIComponent(JSON.stringify",
+    "createProject": "https://gitcode.net/projects",
+    "install": "Shortcuts://shortcuts/b44992b7ab9049abbc35afe088959488",
+    "groupID": "https://gitcode.net/-/autocomplete/users.json?group_id=@&active=true",
+    "createGroup": "https://gitcode.net/groups",
+    "Groups": "https://gitcode.net/dashboard/groups.json",
+    "Graphql": "https://gitcode.net/api/graphql",
+    "icons": [
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/apple.png",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/one.png",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/two.png",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/three.png",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/four.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/five.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/six.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/icon/seven.jpeg"
+    ]
+}

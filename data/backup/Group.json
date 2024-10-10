@@ -1,0 +1,294 @@
+{
+    "iTems": [
+        {
+            "name": "小度音箱",
+            "task": [
+                {
+                    "name": "视频监控",
+                    "Link": "https://www.icloud.com/shortcuts/d82991ba164f44768bec046c9c48ba4d"
+                },
+                {
+                    "name": "暂停播放",
+                    "Link": "https://www.icloud.com/shortcuts/6fecc24605104623bb2a540955e97af6"
+                },
+                {
+                    "name": "下一首",
+                    "Link": "https://www.icloud.com/shortcuts/ff216ee411ad4873b2e7fdfb91948c1a"
+                },
+                {
+                    "name": "调音量",
+                    "Link": "https://www.icloud.com/shortcuts/32cdbe9a778c4d6a88b899f568942fb2"
+                },
+                {
+                    "name": "吉他曲",
+                    "Link": "https://www.icloud.com/shortcuts/9b450056d47d48bcadcb76c249302272"
+                },
+                {
+                    "name": "萨克斯",
+                    "Link": "https://www.icloud.com/shortcuts/a9a6191d92b5455dab9b8163ae8de7f0"
+                },
+                {
+                    "name": "爵士乐",
+                    "Link": "https://www.icloud.com/shortcuts/58d5e66663e1415f89781d68ab65bde4"
+                },
+                {
+                    "name": "钢琴曲",
+                    "Link": "https://www.icloud.com/shortcuts/3c718baf6ca34eb2912d9f265f4f0e08"
+                },
+                {
+                    "name": "轻音乐",
+                    "Link": "https://www.icloud.com/shortcuts/6bed506989e041ec9911efbad40ed67c"
+                }
+            ],
+            "stock": []
+        },
+        {
+            "name": "自动任务",
+            "task": [
+                {
+                    "name": "ThomasCook",
+                    "Link": "https://www.icloud.com/shortcuts/2c19eada12cf4bf3b475591f2077dd57"
+                },
+                {
+                    "name": "得物 - 自动任务",
+                    "Link": "https://www.icloud.com/shortcuts/84e9517a8ea941f3bc653dd01c187009"
+                },
+                {
+                    "name": "海尔智家-自动任务",
+                    "Link": "https://www.icloud.com/shortcuts/d3dee8d69c8645859a403111f236f595"
+                },
+                {
+                    "name": "海信商城-自动任务",
+                    "Link": "https://www.icloud.com/shortcuts/f19b4e9e9b564501a5e56624f3dc2bf2"
+                },
+                {
+                    "name": "四川观察",
+                    "Link": "https://www.icloud.com/shortcuts/353b4e534cbe4ad78f620c9d288ecb09"
+                },
+                {
+                    "name": "开奖结果",
+                    "Link": "https://www.icloud.com/shortcuts/bf524d1d611c44ffb7f6a0e3e188db90"
+                },
+                {
+                    "name": "油价预警",
+                    "Link": "https://www.icloud.com/shortcuts/9e273f9a3e534df58b189dcd1b7349a3"
+                },
+                {
+                    "name": "Epidemic Risk",
+                    "Link": "https://www.icloud.com/shortcuts/c248a7e2ef38455289242f39b5a3c952"
+                },
+                {
+                    "name": "C 260 L运动版",
+                    "Link": "https://www.icloud.com/shortcuts/70984dbc1707478c9c9e1ea8884589e3"
+                },
+                {
+                    "name": "情景模式",
+                    "Link": "https://www.icloud.com/shortcuts/932a0540c7054d088b573e0672743640"
+                },
+                {
+                    "name": "App Store",
+                    "Link": "https://www.icloud.com/shortcuts/fb9342f7b50040a68b8e9e5dff611963"
+                },
+                {
+                    "name": "滨江帝景",
+                    "Link": "https://www.icloud.com/shortcuts/6b76fef1215a4b6b8aa27054e2f66831"
+                },
+                {
+                    "name": "南方电网",
+                    "Link": "https://www.icloud.com/shortcuts/afe73fd397034a08b0635f48da589a2b"
+                },
+                {
+                    "name": "用电及签到",
+                    "Link": "https://www.icloud.com/shortcuts/55fda91f9b2042cb916575ab1bece676"
+                },
+                {
+                    "name": "Apple OS",
+                    "Link": "https://www.icloud.com/shortcuts/02532bd2189a440c8e894b8b03d8bf04"
+                }
+            ],
+            "stock": []
+        },
+        {
+            "name": "暂时使用",
+            "task": [
+                {
+                    "name": "推送类型",
+                    "Link": "https://www.icloud.com/shortcuts/e4e31d7ede6446aba14a0b951fc21f14"
+                },
+                {
+                    "name": "科学上网",
+                    "Link": "https://www.icloud.com/shortcuts/3e6397795c324ff28d8c2d6ac6e3e0d1"
+                },
+                {
+                    "name": "免费节点",
+                    "Link": "https://www.icloud.com/shortcuts/846a5920ba7a4bc1aaf11243ed471a77"
+                },
+                {
+                    "name": "iCloud URL",
+                    "Link": "https://www.icloud.com/shortcuts/5c85cca7648345cca15da689252300c5"
+                },
+                {
+                    "name": "获取京东Cookie",
+                    "Link": "https://www.icloud.com/shortcuts/c1c324a0bbba459fb0d6dc2b02bc84de"
+                },
+                {
+                    "name": "全球视频",
+                    "Link": "https://www.icloud.com/shortcuts/cdd7f082a465475e9e689e3d14850b6a"
+                },
+                {
+                    "name": "Location",
+                    "Link": "https://www.icloud.com/shortcuts/61a381feccbc4a138c36e97b981f207a"
+                },
+                {
+                    "name": "Vip影视剧",
+                    "Link": "https://www.icloud.com/shortcuts/d2dd50c53a4b45dea84bb7e365e8590e"
+                },
+                {
+                    "name": "高德地图",
+                    "Link": "https://www.icloud.com/shortcuts/8cadb62e5b6d45d291183be4776988b0"
+                },
+                {
+                    "name": "健康码",
+                    "Link": "https://www.icloud.com/shortcuts/5a9aff876f7448aea202135d1f47c5af"
+                },
+                {
+                    "name": "Scriptable",
+                    "Link": "https://www.icloud.com/shortcuts/c4991eaaf21342c3ba74ef6b2b047e35"
+                },
+                {
+                    "name": "核酸结果",
+                    "Link": "https://www.icloud.com/shortcuts/a92364c77f354693b3332651affdf0e1"
+                }
+            ],
+            "stock": []
+        },
+        {
+            "name": "常用捷径",
+            "task": [
+                {
+                    "name": "Weather",
+                    "Link": "https://www.icloud.com/shortcuts/5eb52899e41142d4902955e44131b609"
+                },
+                {
+                    "name": "家人地图",
+                    "Link": "https://www.icloud.com/shortcuts/e8d3dafa4eb94881b1e18bb044e0f816"
+                },
+                {
+                    "name": "天气预警",
+                    "Link": "https://www.icloud.com/shortcuts/4e0382145ec545c4b15c0e706d7d200e"
+                },
+                {
+                    "name": "Civic",
+                    "Link": "https://www.icloud.com/shortcuts/310d7da05a564986821cf8a18f5221f5"
+                },
+                {
+                    "name": "交管12123",
+                    "Link": "https://www.icloud.com/shortcuts/f0c6c2c27b994716992749158bf627bf"
+                },
+                {
+                    "name": "Honda Civic",
+                    "Link": "https://www.icloud.com/shortcuts/10259a19c95445b4b3969ec466f05f9e"
+                }
+            ],
+            "stock": []
+        },
+        {
+            "name": "捷径工具",
+            "task": [
+                {
+                    "name": "自动任务组",
+                    "Link": "https://www.icloud.com/shortcuts/7e2070a1971f4e65b56efb291c156f55"
+                },
+                {
+                    "name": "自动任务菜单",
+                    "Link": "https://www.icloud.com/shortcuts/8c9ce81ec01d4e8290e2c06113e38067"
+                },
+                {
+                    "name": "捷径社区",
+                    "Link": "https://www.icloud.com/shortcuts/e1191e9a22114f21a9636971a0bc52b3"
+                },
+                {
+                    "name": "Monitor",
+                    "Link": "https://www.icloud.com/shortcuts/ac2a25a60fb04068a577d38958dc2e59"
+                },
+                {
+                    "name": "图标工具箱",
+                    "Link": "https://www.icloud.com/shortcuts/19c7c590e5864cbea20604a97b4c5f14"
+                },
+                {
+                    "name": "复制指令",
+                    "Link": "https://www.icloud.com/shortcuts/e47208c0edb44f8e9d44e1a74b49009f"
+                },
+                {
+                    "name": "Backup",
+                    "Link": "https://www.icloud.com/shortcuts/154400f6b1e64b7cad275fcda8da2054"
+                },
+                {
+                    "name": "捷径备份",
+                    "Link": "https://www.icloud.com/shortcuts/72302b905d8e4b94ab8662a5f77625e8"
+                },
+                {
+                    "name": "Gitee码云",
+                    "Link": "https://www.icloud.com/shortcuts/674deea78f30418b88ba009ec02817d9"
+                },
+                {
+                    "name": "Automation",
+                    "Link": "https://www.icloud.com/shortcuts/436659f641c344ce990c9a146f40138f"
+                },
+                {
+                    "name": "Automation Scriptable",
+                    "Link": "https://www.icloud.com/shortcuts/d38c321878e04d7aac639034daaec169"
+                },
+                {
+                    "name": "Text Convert Json",
+                    "Link": "https://www.icloud.com/shortcuts/2b1b2f8ba8bd4cbda9d07c5ca0fc8e20"
+                },
+                {
+                    "name": "Merge Dictionary",
+                    "Link": "https://www.icloud.com/shortcuts/d2886b5834a440adacb08897d69a172f"
+                },
+                {
+                    "name": "Coding",
+                    "Link": "https://www.icloud.com/shortcuts/10ac755a18544af2948a2151e6e04cf3"
+                },
+                {
+                    "name": "JSON 3个",
+                    "Link": "https://www.icloud.com/shortcuts/5cef29ce88af4196ab0e7e2dd7856490"
+                },
+                {
+                    "name": "JSON",
+                    "Link": "https://www.icloud.com/shortcuts/8448e5a11c214f56a92f5b5bb553b547"
+                },
+                {
+                    "name": "GitCode",
+                    "Link": "https://www.icloud.com/shortcuts/d03a8669089b4bf6aba16b221b44bd04"
+                },
+                {
+                    "name": "GitCode Text",
+                    "Link": "https://www.icloud.com/shortcuts/6b33729c5aad4177b6e38f2062092b71"
+                },
+                {
+                    "name": "GitCode Create",
+                    "Link": "https://www.icloud.com/shortcuts/1f316cc0eac246879f6adba474d119a7"
+                },
+                {
+                    "name": "GitCode Integration",
+                    "Link": "https://www.icloud.com/shortcuts/3a655e4616464c0b85f6a70d6947b7ad"
+                },
+                {
+                    "name": "小工具",
+                    "Link": "https://www.icloud.com/shortcuts/00db9d4554304fdb9e89244d09db7700"
+                },
+                {
+                    "name": "Copy and Paste",
+                    "Link": "https://www.icloud.com/shortcuts/90c4a8c846124e0597633dbc3a231ebd"
+                },
+                {
+                    "name": "获取用量数据",
+                    "Link": "https://www.icloud.com/shortcuts/addfede1bff1422683bb6186b1f75049"
+                }
+            ],
+            "stock": []
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "QueryDay": "https://95598.csg.cn/ucs/ma/zt/charge/queryDayElectricByMPoint",
+    "BindEleUsers": "https://95598.csg.cn/ucs/ma/zt/eleCustNumber/queryBindEleUsers",
+    "EleCar": "https://95598.csg.cn/ucs/ma/zt/eleCar/getHomeInfo",
+    "User": {
+        "Notice": "null",
+        "Subscribe": "https://shimo.im/api/newforms/forms/gCDhJcChXpP8vgqP/submit",
+        "Code": "6e372743-a750-4255-9c4c-86c2c7921a6b",
+        "Notification": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/powerGrid/PowerGrid_0.png",
+        "Lucky": "https://95598.csg.cn/ucs/ma/zt/center/getVerifyCode",
+        "GetToken": {
+            "body": {
+                "code": "",
+                "acctId": "",
+                "logonChan": "4",
+                "credType": "11"
+            },
+            "method": "POST",
+            "headers": {
+                "Content-type": "application/json;charset=utf-8"
+            },
+            "url": "https://95598.csg.cn/ucs/ma/zt/center/login"
+        },
+        "Gratuity": [
+            "alipays://platformapi/startapp?appId=09999988&actionType=toAccount&goBack=NO&amount=5&userId=2088012252151111&memo=谢谢老板"
+        ],
+        "install": "workflow://shortcuts/2b966b134b634a54a89e961235841555",
+        "FaCai": "https://95598.csg.cn/ucs/ma/zt/center/getAddress"
+    },
+    "Version": "2.0",
+    "Update": "更新了若干功能，解决了一些已知问题",
+    "BindUser": "https://95598.csg.cn/ucs/ma/zt/eleCustNumber/bindElectricityUsers",
+    "MonthDetail": "https://95598.csg.cn/ucs/ma/zt/charge/selectElecBill",
+    "Balance": "https://95598.csg.cn/ucs/ma/zt/charge/queryUserAccountNumberSurplus",
+    "install": "workflow://shortcuts/6c974be9fad04a22984e6d12bdd70897",
+    "Login": "https://gitcode.net/4qiao/shortcuts/-/raw/master/data/Request.js",
+    "SendMsg": "https://95598.csg.cn/ucs/ma/zt/center/sendMsg",
+    "Yesterday": "https://95598.csg.cn/ucs/ma/zt/charge/queryDayElectricByMPointYesterday",
+    "UserInfo": "https://95598.csg.cn/ucs/ma/zt/user/getUserInfoNoTuoMi",
+    "Binding": "https://95598.csg.cn/ucs/ma/zt/eleCustNumber/electricityUsersQuery",
+    "DeleteUser": "https://95598.csg.cn/ucs/ma/zt/eleCustNumber/unBindElectricityUsers",
+    "PowerGrid": "https://95598.csg.cn/ucs/ma/zt/center/getAddress",
+    "QueryCharges": "https://95598.csg.cn/ucs/ma/zt/charge/queryCharges",
+    "Title": "检测到新的版本，是否更新‼️"
+}

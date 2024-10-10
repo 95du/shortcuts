@@ -1,0 +1,217 @@
+{
+    "User": {
+        "finish": "当前任务已全部完成‼️",
+        "Store": "https://hotels.folidaymall.com/tc-erp/myStore?channelId=1&isSharefrom=tc_app&trackCode=43NVWO06BD1V",
+        "Message": "输入短信验证码",
+        "LoginTips": "登录获取托迈酷客用户授权码，token只储存在iCloud中（ 支持多个账号同时进行任务 ）",
+        "Version": "关于浏览任务问题‼️",
+        "StartTask": "设置自动化或添加到主屏幕运行，前者实现锁屏模式，后者实现后台模式。",
+        "Phone": "输入手机号码，接收短信（ 验证码仅用来获取用户的授权码，只储存在iCloud中 ）",
+        "Release": "建议用户向官方客服反馈增加浏览任务。",
+        "ThomasCook": "Thomas Cook 托迈酷客是复星旅游文化集团（简称“复星旅文”）旗下的生活方式品牌。",
+        "Subscribe": "https://shimo.im/api/newforms/forms/vVAXVyXwLwUb72qm/submit",
+        "CheckTask": "任务完成图标变灰色，未开始任务图标为黄色，未领取积分图标为紫色（ 再次开始任务即可 ）",
+        "Exchange": "用积分兑换商品请在微信小程序或者托迈酷客App中操作（ 可点击链接跳转到商品页面 ）",
+        "Official": "官方热销",
+        "AlipayTips": "1，点击授权登录，再点击第二栏的全部权益\n2，点击右上角三点菜单键 - 分享 - 复制链接",
+        "Title": "Thomas Cook 托迈酷客是复星旅游文化集团（简称“复星旅文”）旗下的生活方式品牌。",
+        "Notice": "App官方不定时增减任务，建议设置多个自动化，当有新任务时将自动运行完成。"
+    },
+    "author": "OTXluqbojIXlj7A=",
+    "Notice": true,
+    "getEquityDetails": "https://hotels.folidaymall.com/equity/front/getEquityPackageDetailById?id=",
+    "Referral": [
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_1.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_2.jpeg",
+        "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_3.jpeg"
+    ],
+    "Link": "https://ur.alipay.com/",
+    "submitTask": "https://apis.folidaymall.com/online/cms-api/activity/submitCompleteActivityTask",
+    "Version": "1.1",
+    "getMember": "https://apis.folidaymall.com/usercenter/online/mem/getMemberDetails",
+    "PointsDetails": "https://apis.folidaymall.com/usercenter/online/mem/getMemberBonusDetail?pageNo=1&pageSize=15",
+    "receiveTask": "https://apis.folidaymall.com/online/cms-api/activity/receiveActivityTask",
+    "Update": "修复已知问题",
+    "queryList": "https://apis.folidaymall.com/sys/equity-web/equityCard/queryList",
+    "Recommend": "https://apis.folidaymall.com/spark/api/page/tabs/content?distinctId=17fb85217bd456-040a9d4794ab388-476c0b39-396328-17fb85217be1c54&platform=TCH5",
+    "Receive": "UN_RECEIVED",
+    "Featured": [
+        {
+            "code": "1",
+            "size": "40",
+            "name": "城市玩乐",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页",
+                    "第 4 页"
+                ]
+            }
+        },
+        {
+            "code": "1",
+            "size": "40",
+            "name": "生活商城",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页",
+                    "第 4 页",
+                    "第 5 页",
+                    "第 6 页"
+                ]
+            }
+        },
+        {
+            "code": "1",
+            "size": "40",
+            "name": "旅游度假",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页",
+                    "第 4 页"
+                ]
+            }
+        },
+        {
+            "code": "1",
+            "size": "40",
+            "name": "酒店套餐",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页"
+                ]
+            }
+        }
+    ],
+    "OpenAlipay": "alipays://platformapi/startapp?appId=2021002196605256&page=pages%2Fusercenter%2Fusercenter",
+    "taskList": "https://apis.folidaymall.com/online/cms-api/activity/queryActivityTaskRelationList",
+    "Timestamp": "https://apis.folidaymall.com/poseidon/online/im/advisor/check",
+    "UserSign": "https://apis.folidaymall.com/online/cms-api/sign/userSign",
+    "InfoSend": "https://apis.folidaymall.com/sys/equity-web/equityCard/equityCardInfoSend",
+    "Login": "https://zeus.thomascook.com.cn/user/login/sms",
+    "Recom": {
+        "trackCode": "?isSharefrom=tc_app&trackCode=43NVWO06BD1V",
+        "WeChat": "weixin://scanqrcode",
+        "QQ": "https://jq.qq.com/?_wv=1027&k=VtrgK2iQ",
+        "agentInfo": "https://apis.folidaymall.com/spark/api/agent/info",
+        "Title": "识别二维码申请推荐官",
+        "Tips": "加入酷客推荐官二维码已储存到相册中"
+    },
+    "install": "Shortcuts://shortcuts/f866178c41514b99b0bdb3882f4bed88",
+    "img": {
+        "Picture_1": "https://image.fosunholiday.com/cl/image/20211230/61cda9e06910354fe97ebce6.png",
+        "Picture_5": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/99/c2/b1/99c2b1c5-a3a6-4e8e-5a2f-67addabd79c2/source/512x512bb.png",
+        "Picture_2": "https://image.fosunholiday.com/cl/image/20210622/60d1a206f08eac2903b29dad.gif",
+        "Picture_3": "https://image.fosunholiday.com/cl/image/20200612/5ee339c45c4d540fe254483f.png",
+        "Picture_4": "https://gitcode.net/4qiao/shortcuts/-/raw/master/img/thomasCook/recommender_6.png"
+    },
+    "recordList": "https://hotels.folidaymall.com/equity/front/receive/record/list",
+    "CustomerService": "https://hotels.folidaymall.com/chatlink/tc.html?groupid=325321b2018087cfc9cfbc6def7658ee&metadata%5B1%5D=%22%7D&login_path=/pages/login/index&pay_path=/pages/pay/pay&token=@&timestamp=",
+    "Exchange": [
+        {
+            "name": "酒水饮料",
+            "code": "https://api.b2b2c.fosunholiday.com/buyer-api/goods/search?page_no=@&page_size=50&category=587",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页"
+                ]
+            }
+        },
+        {
+            "name": "食品果蔬",
+            "code": "https://api.b2b2c.fosunholiday.com/buyer-api/goods/search?page_no=@&page_size=50&category=589",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页",
+                    "第 4 页"
+                ]
+            }
+        },
+        {
+            "name": "美妆个护",
+            "code": "https://api.b2b2c.fosunholiday.com/buyer-api/goods/search?page_no=@&page_size=50&category=588",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页",
+                    "第 4 页",
+                    "第 5 页",
+                    "第 6 页"
+                ]
+            }
+        },
+        {
+            "name": "数码家电",
+            "code": "https://api.b2b2c.fosunholiday.com/buyer-api/goods/search?page_no=@&page_size=64&category=580",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页",
+                    "第 4 页",
+                    "第 5 页",
+                    "第 6 页"
+                ]
+            }
+        },
+        {
+            "name": "居家生活",
+            "code": "https://api.b2b2c.fosunholiday.com/buyer-api/goods/search?page_no=@&page_size=50&category=570",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页",
+                    "第 4 页",
+                    "第 5 页",
+                    "第 6 页",
+                    "第 7 页"
+                ]
+            }
+        },
+        {
+            "name": "伴手礼物",
+            "code": "https://api.b2b2c.fosunholiday.com/buyer-api/goods/search?page_no=@&page_size=50&category=569",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页",
+                    "第 4 页"
+                ]
+            }
+        },
+        {
+            "name": "珠宝时尚",
+            "code": "https://api.b2b2c.fosunholiday.com/buyer-api/goods/search?page_no=@&page_size=50&category=574",
+            "page": {
+                "Number": [
+                    "第 1 页",
+                    "第 2 页",
+                    "第 3 页"
+                ]
+            }
+        }
+    ],
+    "Completed": "COMPLETED",
+    "HTML": "data:text/html;charset=utf-8,<script>",
+    "Rewards": "https://apis.folidaymall.com/online/cms-api/activity/receiveActivityTaskRewards",
+    "queryDetail": "https://apis.folidaymall.com/sys/equity-web/equityCard/queryDetail",
+    "SendList": "https://apis.folidaymall.com/sys/equity-web/equityCard/equityCardInfoSendList",
+    "ProductDetail": "https://apis.folidaymall.com/spark/api/product/share/queryProductDetail",
+    "GetSMS": "https://zeus.thomascook.com.cn/service/sms?isSharefrom=tc_web&trackCode=43NVWO06BD1V",
+    "UrlManage": "https://home.suowo.cn/ucenter/tinyurlManage/restore/createforUnlogin.htm",
+    "equityList": "https://hotels.folidaymall.com/equity/front/equityPackageList?flag=",
+    "getEquity": "https://hotels.folidaymall.com/equity/front/receivedEquityPackageById"
+}

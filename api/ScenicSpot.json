@@ -1,0 +1,167 @@
+{
+    "Update": "更新数据源‼️",
+    "Version": "1.1",
+    "Address": "https://apis.map.qq.com/ws/geocoder/v1/?coord_type=5&get_poi=0&output=json&key=6GZBZ-OF43F-4DOJQ-JI5C6-UCBYH-VYFDE&location=",
+    "ScenicSpot": "https://zwfw.mct.gov.cn/service/scenicspot?currentPage=1&pageSize=30&province=",
+    "Province": [
+        {
+            "name": "北京",
+            "Picture": "颐和园的秋",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/293.jpg"
+        },
+        {
+            "name": "天津",
+            "Picture": "天津之眼",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/296.jpg"
+        },
+        {
+            "name": "河北",
+            "Picture": "山海关",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/301.jpg"
+        },
+        {
+            "name": "山西",
+            "Picture": "平遥古城",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/302.jpg"
+        },
+        {
+            "name": "内蒙古",
+            "Picture": "呼伦贝尔草原",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/309.jpg"
+        },
+        {
+            "name": "辽宁",
+            "Picture": "大连金石滩",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/314.jpg"
+        },
+        {
+            "name": "吉林",
+            "Picture": "长白山",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/320.jpg"
+        },
+        {
+            "name": "黑龙江",
+            "Picture": "漠河北极村",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/326.jpg"
+        },
+        {
+            "name": "上海",
+            "Picture": "东方明珠",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/333.jpg"
+        },
+        {
+            "name": "江苏",
+            "Picture": "同里古镇",
+            "URL": "http://img.mp.itc.cn/upload/20170325/8b7740879fd34d4b99701eea897fd0ee_th.jpg"
+        },
+        {
+            "name": "浙江",
+            "Picture": "西湖",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/338.jpg"
+        },
+        {
+            "name": "安徽",
+            "Picture": "黄山",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/350.jpg"
+        },
+        {
+            "name": "福建",
+            "Picture": "鼓浪屿",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/364.jpg"
+        },
+        {
+            "name": "江西",
+            "Picture": "滕王阁",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/371.jpg"
+        },
+        {
+            "name": "山东",
+            "Picture": "崂山",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/373.jpg"
+        },
+        {
+            "name": "河南",
+            "Picture": "龙门石窟",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/378.jpg"
+        },
+        {
+            "name": "湖北",
+            "Picture": "黄鹤楼",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/382.jpg"
+        },
+        {
+            "name": "湖南",
+            "Picture": "张家界",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/385.jpg"
+        },
+        {
+            "name": "广东",
+            "Picture": "腊肠煲仔饭",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/395.jpg"
+        },
+        {
+            "name": "广西",
+            "Picture": "桂林山水",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/402.jpg"
+        },
+        {
+            "name": "海南",
+            "Picture": "蜈支洲岛",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/407.jpg"
+        },
+        {
+            "name": "重庆",
+            "Picture": "武隆天坑",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/411.jpg"
+        },
+        {
+            "name": "四川",
+            "Picture": "九寨沟",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/414.jpg"
+        },
+        {
+            "name": "贵州",
+            "Picture": "黄果树瀑布",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/426.jpg"
+        },
+        {
+            "name": "云南",
+            "Picture": "丽江",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/435.jpg"
+        },
+        {
+            "name": "西藏",
+            "Picture": "布达拉宫",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/439.jpg"
+        },
+        {
+            "name": "陕西",
+            "Picture": "兵马俑",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/467.jpg"
+        },
+        {
+            "name": "甘肃",
+            "Picture": "张掖七彩丹霞",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/480.jpg"
+        },
+        {
+            "name": "青海",
+            "Picture": "青海湖",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/486.jpg"
+        },
+        {
+            "name": "宁夏",
+            "Picture": "沙坡头",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/494.jpg"
+        },
+        {
+            "name": "新疆",
+            "Picture": "喀纳斯景区",
+            "URL": "https://imagepphcloud.thepaper.cn/pph/image/129/463/506.jpg"
+        }
+    ],
+    "install": "Shortcuts://shortcuts/09530f5319e74433ac6554e1ebdc1209",
+    "User": {
+        "Subscribe": "https://shimo.im/api/newforms/forms/jtJpwGTtyKtP6r8q/submit"
+    }
+}

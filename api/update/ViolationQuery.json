@@ -1,0 +1,22 @@
+{
+    "Update": "null",
+    "Version": "2.0",
+    "CaptchaSms": "https://auth.cx580.com/Handler/CaptchaSmsHandler.ashx",
+    "Status": "https://bl.cx580.com/api/illegal/",
+    "Delete": "https://bl.cx580.com/api/car/delete/",
+    "Validate": "https://bl.cx580.com/api/other/ImgCaptchaStr/car_",
+    "Query": "https://bl.cx580.com/api/car/getCars",
+    "install": "workflow://shortcuts/11b018ba1380467e879a220fc426ffa6",
+    "OCR": "https://bl.cx580.com/api/car/ocr",
+    "Title": "检测到新的版本，是否更新？",
+    "User": {
+        "action": "VerifyCaptchaSms",
+        "Subscribe": "https://shimo.im/api/newforms/forms/vVjVgdvTJVxXXP6t/submit",
+        "Code": "0",
+        "CaptchaSms": "https://auth-h5.cx580.com/authH5.html?telPhone=&themeCss=",
+        "OilPrice": "https://mys4s.cn/v3/oil/price",
+        "Cookie": "_cxytj_prevEventId=h5_wzcb_Home; _cxytj_sessionId=PhMFa4PEfIwyxdw1wP3RsXIHbJw9nx2b; keyPath=B%E7%AB%AF%E8%BF%9D%E7%AB%A0%E4%BB%A3%E5%8A%9E; prevProductId=B%E7%AB%AF%E8%BF%9D%E7%AB%A0%E4%BB%A3%E5%8A%9E; sourceUrl=https%3A%2F%2Fbl.cx580.com%2Fcontent%2Findex.html%3Fuser_from%3D2020BDH5%23%2FconfiguredHome; tjUserId=; AuthType=Sms; AuthUserType=sograndwap; CallbackMode=; ClientId=ViolationQuery; RedirectUrl=https%3A%2F%2Fbl.cx580.com%2Flogin",
+        "Type": "2020BDH5",
+        "Preview": "m.qiyoujiage.com"
+    }
+}
